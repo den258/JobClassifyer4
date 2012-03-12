@@ -1,0 +1,3386 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root Text="office.frog256">
+  <Customer Text="有限会社コパン">
+    <Business Text="支援業務">
+      <Class Text="販売支援">
+        <Detail Text="パンの販売の手伝い">
+          <WorkTime Date="20101227" Time="01.00" Start="11:30" End="12:30" />
+          <WorkTime Date="20110105" Time="01.50" Start="11:00" End="12:30" />
+          <WorkTime Date="20110107" Time="01.25" Start="11:45" End="13:00" />
+          <WorkTime Date="20110120" Time="01.25" Start="10:00" End="11:15" />
+          <WorkTime Date="20120110" Time="02.00" Start="11:00" End="13:00" />
+        </Detail>
+        <Detail Text="送迎">
+          <WorkTime Date="20110127" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20110127" Time="00.75" Start="12:30" End="13:15" />
+        </Detail>
+      </Class>
+      <Class Text="配達">
+        <Detail Text="コパン支援配達">
+          <WorkTime Date="20110104" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110106" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110107" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110112" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110114" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110114" Time="01.25" Start="10:30" End="11:45" />
+          <WorkTime Date="20110114" Time="01.50" Start="12:45" End="14:15" />
+          <WorkTime Date="20110117" Time="01.50" Start="10:30" End="12:00" />
+          <WorkTime Date="20110119" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110124" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110126" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110128" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110131" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110131" Time="01.00" Start="10:30" End="11:30" />
+          <WorkTime Date="20110202" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110208" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110210" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110215" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110217" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110223" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110225" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110302" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110303" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110308" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110310" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110311" Time="01.00" Start="13:15" End="14:15" />
+          <WorkTime Date="20110315" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110316" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110317" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110322" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110324" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110329" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110331" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110401" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20110405" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110407" Time="01.75" Start="09:15" End="11:00" />
+          <WorkTime Date="20110412" Time="01.50" Start="09:15" End="10:45" />
+          <WorkTime Date="20110413" Time="01.75" Start="09:15" End="11:00" />
+          <WorkTime Date="20110414" Time="01.50" Start="09:15" End="10:45" />
+          <WorkTime Date="20110419" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110420" Time="01.50" Start="09:15" End="10:45" />
+          <WorkTime Date="20110421" Time="01.75" Start="09:15" End="11:00" />
+          <WorkTime Date="20110506" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110510" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110512" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110517" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110518" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110519" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110520" Time="01.00" Start="09:30" End="10:30" />
+          <WorkTime Date="20110520" Time="01.00" Start="15:00" End="16:00" />
+          <WorkTime Date="20110523" Time="01.50" Start="09:30" End="11:00" />
+          <WorkTime Date="20110524" Time="02.00" Start="09:30" End="11:30" />
+          <WorkTime Date="20110526" Time="01.75" Start="09:30" End="11:15" />
+          <WorkTime Date="20110530" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110531" Time="01.75" Start="09:15" End="11:00" />
+          <WorkTime Date="20110602" Time="01.75" Start="09:15" End="11:00" />
+          <WorkTime Date="20110607" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110609" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110614" Time="01.25" Start="09:15" End="10:30" />
+          <WorkTime Date="20110615" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110616" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110622" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110623" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110628" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20110629" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110705" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110706" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20110712" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110714" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20110714" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110728" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110801" Time="01.25" Start="09:30" End="10:45" />
+          <WorkTime Date="20110802" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110804" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110805" Time="01.00" Start="10:00" End="11:00" />
+          <WorkTime Date="20110809" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110808" Time="01.25" Start="10:15" End="11:30" />
+          <WorkTime Date="20110811" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110818" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110819" Time="01.75" Start="10:00" End="11:45" />
+          <WorkTime Date="20110820" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20110822" Time="02.00" Start="09:30" End="11:30" />
+          <WorkTime Date="20110823" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110825" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110826" Time="01.50" Start="10:15" End="11:45" />
+          <WorkTime Date="20110829" Time="01.50" Start="10:15" End="11:45" />
+          <WorkTime Date="20110831" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110901" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110906" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110908" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110913" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110915" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110920" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110922" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110927" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110929" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20111004" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20111005" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111006" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111011" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111013" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20111018" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111019" Time="02.25" Start="09:30" End="11:45" />
+          <WorkTime Date="20111020" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111025" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111027" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111101" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111102" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111104" Time="01.25" Start="10:30" End="11:45" />
+          <WorkTime Date="20111108" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111110" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20111115" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20111117" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111122" Time="02.00" Start="09:30" End="11:30" />
+          <WorkTime Date="20111124" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111125" Time="01.50" Start="10:30" End="12:00" />
+          <WorkTime Date="20111129" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111201" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111202" Time="01.00" Start="10:15" End="11:15" />
+          <WorkTime Date="20111206" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111208" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20111213" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20111215" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111220" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111222" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111227" Time="02.50" Start="09:30" End="12:00" />
+          <WorkTime Date="20111229" Time="01.25" Start="10:15" End="11:30" />
+          <WorkTime Date="20120105" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20120116" Time="01.25" Start="10:15" End="11:30" />
+          <WorkTime Date="20120119" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20120123" Time="01.75" Start="10:00" End="11:45" />
+          <WorkTime Date="20120126" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20120130" Time="01.50" Start="10:15" End="11:45" />
+          <WorkTime Date="20120202" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20120209" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20120210" Time="01.25" Start="10:15" End="11:30" />
+          <WorkTime Date="20120213" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20120216" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20120220" Time="01.25" Start="10:15" End="11:30" />
+          <WorkTime Date="20120223" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20120227" Time="01.50" Start="10:15" End="11:45" />
+          <WorkTime Date="20120228" Time="02.50" Start="09:15" End="11:45" />
+        </Detail>
+      </Class>
+      <Class Text="データ作成">
+        <Detail Text="宇都宮市内のパン屋リスト">
+          <WorkTime Date="20110107" Time="00.75" Start="09:30" End="10:15" />
+        </Detail>
+        <Class Text="売上データ">
+          <Detail Text="売上データベースグラフ作成">
+            <WorkTime Date="20111003" Time="00.50" Start="13:00" End="13:30" />
+          </Detail>
+          <Detail Text="売上データベース作成">
+            <WorkTime Date="20110926" Time="01.00" Start="16:00" End="17:00" />
+            <WorkTime Date="20110927" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110927" Time="03.75" Start="13:00" End="16:45" />
+            <WorkTime Date="20110928" Time="02.50" Start="09:30" End="12:00" />
+            <WorkTime Date="20110930" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20111003" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20111004" Time="00.75" Start="13:45" End="14:30" />
+          </Detail>
+          <Detail Text="外販比較表作成">
+            <WorkTime Date="20111020" Time="03.00" Start="13:00" End="16:00" />
+          </Detail>
+          <Detail Text="外販売り上げデータ入力">
+            <WorkTime Date="20111013" Time="01.50" Start="13:00" End="14:30" />
+            <WorkTime Date="20111013" Time="00.25" Start="15:45" End="16:00" />
+            <WorkTime Date="20111014" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20111014" Time="01.75" Start="13:00" End="14:45" />
+            <WorkTime Date="20111015" Time="01.50" Start="10:15" End="11:45" />
+            <WorkTime Date="20111015" Time="02.50" Start="13:00" End="15:30" />
+            <WorkTime Date="20111017" Time="00.25" Start="10:00" End="10:15" />
+            <WorkTime Date="20111017" Time="00.25" Start="13:00" End="13:15" />
+            <WorkTime Date="20111017" Time="01.25" Start="15:15" End="16:30" />
+            <WorkTime Date="20111018" Time="01.75" Start="13:00" End="14:45" />
+            <WorkTime Date="20111018" Time="00.50" Start="15:00" End="15:30" />
+            <WorkTime Date="20111018" Time="00.75" Start="16:00" End="16:45" />
+            <WorkTime Date="20111019" Time="00.50" Start="09:00" End="09:30" />
+            <WorkTime Date="20111019" Time="00.25" Start="11:45" End="12:00" />
+            <WorkTime Date="20111019" Time="01.50" Start="14:45" End="16:15" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="その他">
+        <Detail Text="会議準備">
+          <WorkTime Date="20111129" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20120106" Time="00.50" Start="13:45" End="14:15" />
+        </Detail>
+        <Detail Text="インターネット設定">
+          <WorkTime Date="20120105" Time="01.50" Start="12:15" End="13:45" />
+          <WorkTime Date="20120105" Time="00.50" Start="15:45" End="16:15" />
+          <WorkTime Date="20120106" Time="01.75" Start="14:15" End="16:00" />
+          <WorkTime Date="20120111" Time="00.25" Start="16:15" End="16:30" />
+          <WorkTime Date="20120117" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20120120" Time="01.00" Start="14:00" End="15:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="シフト確認システム開発業務">
+      <Class Text="開発">
+        <Detail Text="Rails生成">
+          <WorkTime Date="20111212" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+        <Detail Text="テストデータ作成">
+          <WorkTime Date="20111212" Time="02.50" Start="09:30" End="12:00" />
+        </Detail>
+        <Detail Text="データ入力Excel作成">
+          <WorkTime Date="20111212" Time="02.25" Start="14:15" End="16:30" />
+          <WorkTime Date="20111213" Time="00.50" Start="13:15" End="13:45" />
+          <WorkTime Date="20111213" Time="01.25" Start="15:30" End="16:45" />
+        </Detail>
+        <Detail Text="設計">
+          <WorkTime Date="20111213" Time="00.50" Start="14:15" End="14:45" />
+          <WorkTime Date="20111228" Time="01.25" Start="10:45" End="12:00" />
+        </Detail>
+        <Detail Text="Web側">
+          <WorkTime Date="20111213" Time="00.25" Start="16:45" End="17:00" />
+        </Detail>
+        <Detail Text="アップロード部分実装">
+          <WorkTime Date="20111220" Time="00.50" Start="16:00" End="16:30" />
+        </Detail>
+        <Detail Text="Rails開発環境の構築">
+          <WorkTime Date="20111221" Time="00.75" Start="14:30" End="15:15" />
+        </Detail>
+        <Detail Text="実装">
+          <WorkTime Date="20111226" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20111226" Time="03.25" Start="13:00" End="16:15" />
+          <WorkTime Date="20111228" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111228" Time="01.25" Start="14:15" End="15:30" />
+        </Detail>
+        <Detail Text="UTF8のsignature問題">
+          <WorkTime Date="20111228" Time="01.50" Start="09:15" End="10:45" />
+        </Detail>
+        <Detail Text="日付の検索条件追加">
+          <WorkTime Date="20120110" Time="00.25" Start="09:45" End="10:00" />
+        </Detail>
+        <Detail Text="ドキュメント作成">
+          <WorkTime Date="20120220" Time="02.00" Start="14:45" End="16:45" />
+        </Detail>
+        <Detail Text="不具合修正">
+          <WorkTime Date="20120305" Time="01.50" Start="10:15" End="11:45" />
+        </Detail>
+      </Class>
+      <Class Text="学習">
+        <Detail Text="DevKit英語翻訳">
+          <WorkTime Date="20111221" Time="00.75" Start="15:15" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="打合せ">
+        <Detail Text="理事長と打合せ">
+          <WorkTime Date="20111228" Time="00.50" Start="15:30" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="セットアップ">
+        <Detail Text="レンタルサーバセットアップ">
+          <WorkTime Date="20120104" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20120104" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20120104" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20120107" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20120119" Time="00.50" Start="11:45" End="12:15" />
+          <WorkTime Date="20120119" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20120120" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20120123" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20120124" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20120124" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20120131" Time="00.75" Start="13:30" End="14:15" />
+          <WorkTime Date="20120131" Time="00.50" Start="15:00" End="15:30" />
+          <WorkTime Date="20120201" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20120201" Time="03.25" Start="13:00" End="16:15" />
+          <WorkTime Date="20120202" Time="01.00" Start="16:45" End="17:45" />
+          <WorkTime Date="20120206" Time="02.50" Start="09:30" End="12:00" />
+        </Detail>
+        <Detail Text="Herokuセットアップ">
+          <WorkTime Date="20120214" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20120216" Time="01.25" Start="11:45" End="13:00" />
+          <WorkTime Date="20120216" Time="01.75" Start="14:00" End="15:45" />
+        </Detail>
+      </Class>
+      <Class Text="リリース">
+        <Detail Text="リリース準備">
+          <WorkTime Date="20120223" Time="00.50" Start="12:45" End="13:15" />
+          <WorkTime Date="20120305" Time="00.75" Start="16:30" End="17:15" />
+        </Detail>
+        <Detail Text="ドキュメント作成">
+          <WorkTime Date="20120223" Time="01.00" Start="14:00" End="15:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="NPO法人チャレンジド・コミュニティ">
+    <Business Text="学習業務">
+      <Class Text="Ruby学習">
+        <Class Text="試験勉強">
+          <Detail Text="問題集">
+            <WorkTime Date="20110119" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110201" Time="01.00" Start="17:00" End="18:00" />
+            <WorkTime Date="20110301" Time="01.00" Start="15:45" End="16:45" />
+            <WorkTime Date="20110723" Time="02.25" Start="09:15" End="11:30" />
+            <WorkTime Date="20110725" Time="01.00" Start="13:00" End="14:00" />
+            <WorkTime Date="20110726" Time="02.00" Start="13:00" End="15:00" />
+            <WorkTime Date="20110809" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110809" Time="03.50" Start="13:15" End="16:45" />
+            <WorkTime Date="20110811" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20110811" Time="00.75" Start="13:30" End="14:15" />
+            <WorkTime Date="20110812" Time="01.25" Start="11:00" End="12:15" />
+            <WorkTime Date="20110818" Time="01.50" Start="15:15" End="16:45" />
+            <WorkTime Date="20110819" Time="00.75" Start="09:15" End="10:00" />
+            <WorkTime Date="20110824" Time="00.25" Start="13:00" End="13:15" />
+            <WorkTime Date="20110825" Time="00.75" Start="13:00" End="13:45" />
+            <WorkTime Date="20110906" Time="00.75" Start="13:00" End="13:45" />
+            <WorkTime Date="20110906" Time="00.50" Start="15:15" End="15:45" />
+          </Detail>
+          <Class Text="演習">
+            <Detail Text="演習">
+              <WorkTime Date="20110112" Time="01.25" Start="10:45" End="12:00" />
+              <WorkTime Date="20110309" Time="00.50" Start="11:30" End="12:00" />
+            </Detail>
+            <Detail Text="階乗を出力するプログラム">
+              <WorkTime Date="20110324" Time="01.00" Start="14:45" End="15:45" />
+            </Detail>
+            <Detail Text="演習いろいろ">
+              <WorkTime Date="20110729" Time="02.75" Start="09:00" End="11:45" />
+              <WorkTime Date="20110729" Time="03.00" Start="13:45" End="16:45" />
+              <WorkTime Date="20110802" Time="00.75" Start="11:15" End="12:00" />
+              <WorkTime Date="20110802" Time="03.00" Start="14:00" End="17:00" />
+            </Detail>
+          </Class>
+          <Detail Text="Ruby学習">
+            <WorkTime Date="20110104" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20110104" Time="01.25" Start="14:30" End="15:45" />
+            <WorkTime Date="20110105" Time="01.50" Start="09:30" End="11:00" />
+            <WorkTime Date="20110104" Time="01.00" Start="16:00" End="17:00" />
+            <WorkTime Date="20110303" Time="01.25" Start="15:45" End="17:00" />
+          </Detail>
+          <Detail Text="メソッド一覧の作成">
+            <WorkTime Date="20110728" Time="02.75" Start="13:45" End="16:30" />
+            <WorkTime Date="20110804" Time="01.00" Start="13:00" End="14:00" />
+            <WorkTime Date="20110804" Time="00.50" Start="15:30" End="16:00" />
+            <WorkTime Date="20110819" Time="01.75" Start="15:00" End="16:45" />
+          </Detail>
+          <Detail Text="独習Rubyの読み込み">
+            <WorkTime Date="20110817" Time="01.75" Start="10:15" End="12:00" />
+            <WorkTime Date="20110824" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110831" Time="02.75" Start="13:15" End="16:00" />
+          </Detail>
+          <Detail Text="Rubyレシピブックの演習">
+            <WorkTime Date="20110818" Time="02.00" Start="13:15" End="15:15" />
+          </Detail>
+          <Detail Text="公式ガイド読み込み">
+            <WorkTime Date="20110822" Time="03.00" Start="13:00" End="16:00" />
+            <WorkTime Date="20110823" Time="01.25" Start="13:45" End="15:00" />
+          </Detail>
+          <Detail Text="課題の作成">
+            <WorkTime Date="20110902" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20110902" Time="00.50" Start="14:00" End="14:30" />
+          </Detail>
+          <Detail Text="ノートの読み込み">
+            <WorkTime Date="20110905" Time="01.75" Start="13:15" End="15:00" />
+          </Detail>
+        </Class>
+        <Class Text="その他の知識">
+          <Detail Text="スレッド＆HTTPサーバ実習">
+            <WorkTime Date="20110107" Time="01.50" Start="10:15" End="11:45" />
+            <WorkTime Date="20110301" Time="00.25" Start="16:45" End="17:00" />
+          </Detail>
+          <Class Text="ブログの更新">
+            <Detail Text="ブログの更新">
+              <WorkTime Date="20110324" Time="00.75" Start="15:45" End="16:30" />
+            </Detail>
+          </Class>
+          <Detail Text="JRubyについて調査">
+            <WorkTime Date="20110325" Time="01.00" Start="14:00" End="15:00" />
+          </Detail>
+          <Detail Text="Ruby/Tkについての調査">
+            <WorkTime Date="20110406" Time="03.00" Start="09:00" End="12:00" />
+            <WorkTime Date="20110824" Time="01.00" Start="13:15" End="14:15" />
+          </Detail>
+          <Detail Text="Ruby_on_Railsの学習">
+            <WorkTime Date="20110517" Time="01.50" Start="17:15" End="18:45" />
+          </Detail>
+          <Detail Text="Ruby_on_Railsの環境構築">
+            <WorkTime Date="20110523" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110523" Time="01.00" Start="13:30" End="14:30" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="アスペルガー症候群">
+        <Detail Text="インターネットで勉強">
+          <WorkTime Date="20110105" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="JobClassifyer開発">
+        <Class Text="JobReporterByWeekの開発">
+          <Detail Text="開発">
+            <WorkTime Date="20110106" Time="01.75" Start="14:30" End="16:15" />
+          </Detail>
+        </Class>
+        <Class Text="JobReporterByMonthの開発">
+          <Detail Text="開発">
+            <WorkTime Date="20110105" Time="02.25" Start="14:00" End="16:15" />
+          </Detail>
+        </Class>
+        <Class Text="JobClassyfier2の開発">
+          <Detail Text="開発">
+            <WorkTime Date="20101227" Time="02.00" Start="09:30" End="11:30" />
+            <WorkTime Date="20101227" Time="00.50" Start="12:45" End="13:15" />
+          </Detail>
+          <Detail Text="打合せ">
+            <WorkTime Date="20110105" Time="00.25" Start="09:15" End="09:30" />
+          </Detail>
+          <Detail Text="不具合調査">
+            <WorkTime Date="20110106" Time="01.50" Start="13:00" End="14:30" />
+          </Detail>
+          <Detail Text="ドキュメント作成">
+            <WorkTime Date="20110106" Time="00.75" Start="16:15" End="17:00" />
+          </Detail>
+        </Class>
+        <Class Text="Cloud化">
+          <Detail Text="設計準備">
+            <WorkTime Date="20110114" Time="01.25" Start="14:45" End="16:00" />
+            <WorkTime Date="20110114" Time="00.75" Start="16:15" End="17:00" />
+            <WorkTime Date="20110117" Time="00.75" Start="09:45" End="10:30" />
+            <WorkTime Date="20110117" Time="02.00" Start="13:00" End="15:00" />
+            <WorkTime Date="20110117" Time="00.75" Start="16:15" End="17:00" />
+            <WorkTime Date="20110118" Time="02.25" Start="09:45" End="12:00" />
+            <WorkTime Date="20110418" Time="01.75" Start="10:15" End="12:00" />
+          </Detail>
+        </Class>
+        <Class Text="JobExporterByMonthの開発">
+          <Detail Text="JobExporterの開発">
+            <WorkTime Date="20110323" Time="01.25" Start="09:45" End="11:00" />
+          </Detail>
+        </Class>
+        <Class Text="ドキュメント作成">
+          <Detail Text="ドキュメント作成">
+            <WorkTime Date="20110324" Time="00.50" Start="11:45" End="12:15" />
+          </Detail>
+        </Class>
+        <Class Text="JobClassifyerCSのテスト">
+          <Detail Text="テスト">
+            <WorkTime Date="20110801" Time="00.50" Start="09:00" End="09:30" />
+            <WorkTime Date="20110801" Time="01.25" Start="10:45" End="12:00" />
+          </Detail>
+        </Class>
+        <Class Text="JobClassifyerTeam">
+          <Detail Text="Teamの調査">
+            <WorkTime Date="20110826" Time="00.50" Start="13:30" End="14:00" />
+          </Detail>
+        </Class>
+        <Class Text="JobClassifyerMember">
+          <Detail Text="開発">
+            <WorkTime Date="20110921" Time="03.50" Start="13:00" End="16:30" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="デザイン学習">
+        <Detail Text="オタマジャクシ">
+          <WorkTime Date="20110112" Time="00.50" Start="13:30" End="14:00" />
+        </Detail>
+        <Detail Text="缶バッジ">
+          <WorkTime Date="20110114" Time="00.25" Start="16:00" End="16:15" />
+        </Detail>
+        <Detail Text="WebDesigningを読む">
+          <WorkTime Date="20110225" Time="00.50" Start="16:30" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="クラウド独自研究">
+        <Detail Text="Dropboxの研究">
+          <WorkTime Date="20110114" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="高田君講師の話し合い">
+          <WorkTime Date="20110120" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+      </Class>
+      <Class Text="セミナー類">
+        <Detail Text="RICOHセミナー">
+          <WorkTime Date="20110118" Time="04.00" Start="13:00" End="17:00" />
+        </Detail>
+        <Detail Text="伝えるコツセミナー">
+          <WorkTime Date="20111205" Time="07.00" Start="10:00" End="17:00" />
+        </Detail>
+        <Detail Text="RubyGold出版記念セミナー">
+          <WorkTime Date="20111216" Time="06.00" Start="13:00" End="19:00" />
+        </Detail>
+        <Detail Text="24時間で2倍セミナー">
+          <WorkTime Date="20111221" Time="04.00" Start="17:00" End="21:00" />
+        </Detail>
+        <Class Text="報告書作成">
+          <Detail Text="24時間で2倍報告書作成">
+            <WorkTime Date="20111222" Time="00.75" Start="15:30" End="16:15" />
+          </Detail>
+          <Detail Text="RubyGoldセミナー報告書作成">
+            <WorkTime Date="20111222" Time="00.75" Start="14:45" End="15:30" />
+          </Detail>
+          <Detail Text="伝えるコツセミナー報告書作成">
+            <WorkTime Date="20111222" Time="00.75" Start="13:00" End="13:45" />
+          </Detail>
+          <Detail Text="魔法のふでばこ報告書作成">
+            <WorkTime Date="20120123" Time="00.75" Start="09:15" End="10:00" />
+            <WorkTime Date="20120123" Time="00.25" Start="11:45" End="12:00" />
+            <WorkTime Date="20120123" Time="02.75" Start="13:00" End="15:45" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="情報収集">
+        <Detail Text="情報収集">
+          <WorkTime Date="20110125" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20111124" Time="01.25" Start="15:45" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="回覧">
+        <Detail Text="回覧資料を読む">
+          <WorkTime Date="20110202" Time="01.50" Start="10:30" End="12:00" />
+          <WorkTime Date="20110905" Time="00.75" Start="09:00" End="09:45" />
+        </Detail>
+      </Class>
+      <Class Text="Scala学習">
+        <Detail Text="Scala学習">
+          <WorkTime Date="20110317" Time="01.75" Start="15:15" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="学習報告会">
+        <Class Text="第一回Dreamweaverテンプレート">
+          <Detail Text="学習報告会準備">
+            <WorkTime Date="20110323" Time="00.50" Start="11:00" End="11:30" />
+          </Detail>
+          <Detail Text="学習報告会">
+            <WorkTime Date="20110323" Time="00.50" Start="14:15" End="14:45" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="荒川殿動画編集研修会">
+        <Detail Text="移動">
+          <WorkTime Date="20110328" Time="02.00" Start="12:30" End="14:30" />
+          <WorkTime Date="20110418" Time="02.00" Start="12:30" End="14:30" />
+        </Detail>
+        <Detail Text="研修">
+          <WorkTime Date="20110328" Time="02.25" Start="14:30" End="16:45" />
+          <WorkTime Date="20110418" Time="02.00" Start="14:30" End="16:30" />
+          <WorkTime Date="20110516" Time="01.25" Start="13:30" End="14:45" />
+          <WorkTime Date="20110601" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+        <Detail Text="自主制作">
+          <WorkTime Date="20110510" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110510" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+        <Detail Text="準備">
+          <WorkTime Date="20110516" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+        <Detail Text="動画修正">
+          <WorkTime Date="20110601" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110602" Time="00.50" Start="15:45" End="16:15" />
+        </Detail>
+      </Class>
+      <Class Text="Blogger&amp;Twitter">
+        <Detail Text="デザイン&amp;Followmeバージョンアップ">
+          <WorkTime Date="20110406" Time="02.25" Start="14:45" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="Java">
+        <Class Text="デザインパターン">
+          <Detail Text="デザインパターン実装">
+            <WorkTime Date="20110407" Time="01.00" Start="11:00" End="12:00" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="ソーシャルメディア">
+        <Detail Text="書籍輪読ソーシャルメディア">
+          <WorkTime Date="20110516" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="発達障がいに関する">
+        <Detail Text="発達障がいに関する学習">
+          <WorkTime Date="20110613" Time="01.50" Start="10:30" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="統合失調症に関する勉強">
+        <Detail Text="ホームページ探し">
+          <WorkTime Date="20110729" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="ホームページの記事を読む">
+          <WorkTime Date="20110819" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+      </Class>
+      <Class Text="知識ベース構築">
+        <Detail Text="知識ベース構築">
+          <WorkTime Date="20110810" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20110811" Time="01.75" Start="14:15" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="toRuby">
+        <Detail Text="プロフィールシート作成">
+          <WorkTime Date="20110905" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+        <Detail Text="ポジぺ作成">
+          <WorkTime Date="20111004" Time="00.75" Start="14:30" End="15:15" />
+          <WorkTime Date="20111005" Time="00.50" Start="14:00" End="14:30" />
+        </Detail>
+      </Class>
+      <Class Text="ワカモノ・フェスタ">
+        <Detail Text="デザイン案の検討">
+          <WorkTime Date="20110906" Time="01.50" Start="13:45" End="15:15" />
+          <WorkTime Date="20110908" Time="02.00" Start="14:45" End="16:45" />
+        </Detail>
+      </Class>
+      <Class Text="XML試験学習">
+        <Detail Text="教科書を読む">
+          <WorkTime Date="20111130" Time="01.00" Start="10:30" End="11:30" />
+          <WorkTime Date="20111208" Time="00.25" Start="14:00" End="14:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="管理業務">
+      <Class Text="朝礼">
+        <Detail Text="朝礼">
+          <WorkTime Date="20101227" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20101228" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110105" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110118" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110127" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110325" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110328" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110401" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110407" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110408" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110412" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110413" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110414" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110415" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110420" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110421" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110422" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110426" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110513" Time="00.50" Start="08:45" End="09:15" />
+          <WorkTime Date="20110525" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110527" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110602" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110610" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110614" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110617" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110723" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110805" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110829" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110909" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110912" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110914" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110926" Time="00.75" Start="10:00" End="10:45" />
+        </Detail>
+      </Class>
+      <Class Text="障がい連絡票">
+        <Detail Text="障がい連絡票">
+          <WorkTime Date="20110105" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+      </Class>
+      <Class Text="週締め処理">
+        <Detail Text="週報作成">
+          <WorkTime Date="20110117" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110124" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20110516" Time="00.50" Start="08:30" End="09:00" />
+          <WorkTime Date="20110524" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110801" Time="00.75" Start="13:15" End="14:00" />
+          <WorkTime Date="20111117" Time="01.00" Start="15:30" End="16:30" />
+          <WorkTime Date="20111124" Time="00.50" Start="14:30" End="15:00" />
+          <WorkTime Date="20120224" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20120302" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="月末処理">
+        <Detail Text="月末処理">
+          <WorkTime Date="20110104" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20110201" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110506" Time="00.75" Start="10:30" End="11:15" />
+          <WorkTime Date="20110602" Time="00.50" Start="11:00" End="11:30" />
+          <WorkTime Date="20110705" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110803" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110901" Time="00.75" Start="11:45" End="12:30" />
+          <WorkTime Date="20111031" Time="00.75" Start="09:45" End="10:30" />
+          <WorkTime Date="20111206" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="経理">
+        <Detail Text="書籍購入の領収書を提出">
+          <WorkTime Date="20110118" Time="00.50" Start="09:15" End="09:45" />
+        </Detail>
+        <Detail Text="旅費清算">
+          <WorkTime Date="20120123" Time="00.25" Start="15:45" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="案件整理表の作成">
+        <Detail Text="案件整理表の記入">
+          <WorkTime Date="20110131" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20110215" Time="00.75" Start="13:00" End="13:45" />
+        </Detail>
+        <Detail Text="案件管理表の更新">
+          <WorkTime Date="20111130" Time="00.50" Start="14:30" End="15:00" />
+        </Detail>
+      </Class>
+      <Class Text="県提出書類の作成">
+        <Detail Text="県提出書類の作成">
+          <WorkTime Date="20110209" Time="00.75" Start="10:00" End="10:45" />
+          <WorkTime Date="20110301" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20110323" Time="01.00" Start="15:45" End="16:45" />
+        </Detail>
+        <Detail Text="勤務実績の修正">
+          <WorkTime Date="20111024" Time="00.50" Start="11:15" End="11:45" />
+        </Detail>
+      </Class>
+      <Class Text="管理表の作成">
+        <Detail Text="顧客管理表の作成">
+          <WorkTime Date="20110422" Time="00.25" Start="11:00" End="11:15" />
+          <WorkTime Date="20110509" Time="00.75" Start="16:00" End="16:45" />
+        </Detail>
+        <Detail Text="営業活動管理表の作成">
+          <WorkTime Date="20110422" Time="00.75" Start="11:15" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00125">
+        <Detail Text="社内標準化の資料作成">
+          <WorkTime Date="20110530" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+        <Detail Text="案件管理表の更新">
+          <WorkTime Date="20111102" Time="00.25" Start="16:00" End="16:15" />
+        </Detail>
+      </Class>
+      <Class Text="その他のミーティング">
+        <Class Text="分室ミーティング">
+          <Detail Text="分室ミーティング">
+            <WorkTime Date="20111018" Time="00.50" Start="15:30" End="16:00" />
+            <WorkTime Date="20111024" Time="00.50" Start="10:00" End="10:30" />
+            <WorkTime Date="20120131" Time="00.75" Start="14:15" End="15:00" />
+          </Detail>
+          <Detail Text="理事長に怒られる">
+            <WorkTime Date="20111111" Time="00.25" Start="15:00" End="15:15" />
+          </Detail>
+          <Detail Text="理事長とミーティング">
+            <WorkTime Date="20111208" Time="00.75" Start="14:45" End="15:30" />
+          </Detail>
+          <Detail Text="座談会">
+            <WorkTime Date="20111219" Time="01.00" Start="09:00" End="10:00" />
+          </Detail>
+        </Class>
+        <Class Text="スタッフミーティング">
+          <Detail Text="営業会議">
+            <WorkTime Date="20110209" Time="01.25" Start="15:00" End="16:15" />
+            <WorkTime Date="20110228" Time="01.25" Start="13:00" End="14:15" />
+            <WorkTime Date="20110401" Time="01.25" Start="15:00" End="16:15" />
+            <WorkTime Date="20110411" Time="01.00" Start="14:45" End="15:45" />
+            <WorkTime Date="20110413" Time="00.25" Start="14:30" End="14:45" />
+          </Detail>
+          <Detail Text="スタッフミーティング">
+            <WorkTime Date="20110309" Time="00.50" Start="15:15" End="15:45" />
+            <WorkTime Date="20110414" Time="00.50" Start="11:00" End="11:30" />
+            <WorkTime Date="20110422" Time="03.25" Start="13:45" End="17:00" />
+            <WorkTime Date="20110516" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110617" Time="00.25" Start="09:15" End="09:30" />
+            <WorkTime Date="20110621" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20110623" Time="01.75" Start="14:00" End="15:45" />
+            <WorkTime Date="20110624" Time="03.00" Start="09:00" End="12:00" />
+            <WorkTime Date="20111226" Time="00.25" Start="09:45" End="10:00" />
+          </Detail>
+          <Detail Text="評価基準会議">
+            <WorkTime Date="20110513" Time="00.75" Start="15:30" End="16:15" />
+          </Detail>
+          <Detail Text="高田くんとSkype">
+            <WorkTime Date="20111228" Time="00.25" Start="14:00" End="14:15" />
+          </Detail>
+        </Class>
+        <Class Text="ミーティング顔合わせ">
+          <Detail Text="顔合わせ">
+            <WorkTime Date="20110201" Time="00.75" Start="13:00" End="13:45" />
+          </Detail>
+        </Class>
+        <Class Text="個人面談">
+          <Detail Text="個人面談佐藤部長">
+            <WorkTime Date="20110408" Time="01.75" Start="09:15" End="11:00" />
+          </Detail>
+          <Detail Text="個人面談金井理事長">
+            <WorkTime Date="20110413" Time="00.75" Start="15:15" End="16:00" />
+          </Detail>
+          <Detail Text="個人面談フィールド">
+            <WorkTime Date="20110629" Time="01.00" Start="16:00" End="17:00" />
+          </Detail>
+        </Class>
+        <Class Text="全体会議">
+          <Detail Text="経営方針発表会">
+            <WorkTime Date="20110110" Time="03.00" Start="10:00" End="13:00" />
+            <WorkTime Date="20120107" Time="03.25" Start="13:45" End="17:00" />
+          </Detail>
+          <Detail Text="ＣＩＣ経営方針ミーティング">
+            <WorkTime Date="20110120" Time="02.00" Start="14:00" End="16:00" />
+          </Detail>
+          <Detail Text="全体会議">
+            <WorkTime Date="20110812" Time="04.00" Start="13:00" End="17:00" />
+          </Detail>
+        </Class>
+        <Class Text="特例ミーティング">
+          <Detail Text="CIC方針発表">
+            <WorkTime Date="20111209" Time="01.75" Start="11:00" End="12:45" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="定例ミーティング">
+        <Detail Text="定例ミーティング">
+          <WorkTime Date="20101227" Time="00.50" Start="13:15" End="13:45" />
+          <WorkTime Date="20110104" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110112" Time="01.50" Start="14:00" End="15:30" />
+          <WorkTime Date="20110117" Time="01.25" Start="15:00" End="16:15" />
+          <WorkTime Date="20110124" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20110131" Time="01.50" Start="14:00" End="15:30" />
+          <WorkTime Date="20110209" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20110221" Time="01.50" Start="09:30" End="11:00" />
+          <WorkTime Date="20110221" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110228" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20110302" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20110307" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110314" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110316" Time="00.25" Start="13:15" End="13:30" />
+          <WorkTime Date="20110323" Time="01.25" Start="13:00" End="14:15" />
+          <WorkTime Date="20110330" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110404" Time="01.00" Start="10:00" End="11:00" />
+          <WorkTime Date="20110406" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110411" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20110420" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20110425" Time="01.25" Start="10:00" End="11:15" />
+          <WorkTime Date="20110506" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20110509" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110511" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20110516" Time="01.00" Start="10:00" End="11:00" />
+          <WorkTime Date="20110525" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20110530" Time="02.50" Start="09:30" End="12:00" />
+          <WorkTime Date="20110606" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110613" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110616" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20110620" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110621" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110711" Time="02.75" Start="09:00" End="11:45" />
+          <WorkTime Date="20110713" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110725" Time="02.50" Start="09:30" End="12:00" />
+          <WorkTime Date="20110808" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110812" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110817" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110820" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110826" Time="00.75" Start="11:45" End="12:30" />
+          <WorkTime Date="20110826" Time="02.00" Start="14:00" End="16:00" />
+          <WorkTime Date="20110902" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20110909" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110930" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20111003" Time="00.75" Start="10:00" End="10:45" />
+          <WorkTime Date="20111007" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20111012" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20111014" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20111019" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20111021" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20111028" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20111102" Time="01.25" Start="13:00" End="14:15" />
+          <WorkTime Date="20111104" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20111109" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111111" Time="01.25" Start="13:00" End="14:15" />
+          <WorkTime Date="20111116" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20111118" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20111121" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20111125" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20111130" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20111202" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20111209" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20111214" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20111216" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20111221" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20111229" Time="01.00" Start="11:30" End="12:30" />
+          <WorkTime Date="20120104" Time="02.00" Start="13:30" End="15:30" />
+          <WorkTime Date="20120107" Time="01.50" Start="09:30" End="11:00" />
+          <WorkTime Date="20120120" Time="02.00" Start="15:00" End="17:00" />
+          <WorkTime Date="20120125" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20120222" Time="01.75" Start="15:15" End="17:00" />
+          <WorkTime Date="20120224" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20120302" Time="01.50" Start="15:30" End="17:00" />
+        </Detail>
+        <Detail Text="ミーティング準備">
+          <WorkTime Date="20110111" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110221" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+      </Class>
+      <Class Text="面談">
+        <Detail Text="理事長面談">
+          <WorkTime Date="20120125" Time="00.25" Start="14:00" End="14:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="その他の業務">
+      <Class Text="データバックアップ">
+        <Detail Text="データバックアップ">
+          <WorkTime Date="20101227" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110126" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110126" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+      </Class>
+      <Class Text="遅刻">
+        <Detail Text="遅刻">
+          <WorkTime Date="20101229" Time="01.25" Start="09:00" End="10:15" />
+        </Detail>
+      </Class>
+      <Class Text="掃除">
+        <Detail Text="大掃除">
+          <WorkTime Date="20101229" Time="03.75" Start="13:15" End="17:00" />
+          <WorkTime Date="20111229" Time="02.00" Start="13:30" End="15:30" />
+        </Detail>
+        <Detail Text="書類整理">
+          <WorkTime Date="20110723" Time="01.50" Start="15:30" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="ぽぽら印刷">
+        <Detail Text="ぽぽら印刷">
+          <WorkTime Date="20110107" Time="02.25" Start="13:45" End="16:00" />
+          <WorkTime Date="20110111" Time="02.75" Start="14:30" End="17:15" />
+        </Detail>
+      </Class>
+      <Class Text="NPOリストチェック">
+        <Detail Text="NPOリストチェック">
+          <WorkTime Date="20110111" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110112" Time="01.00" Start="15:30" End="16:30" />
+        </Detail>
+        <Detail Text="NPOリスト郵便番号入れ">
+          <WorkTime Date="20110331" Time="00.75" Start="14:45" End="15:30" />
+        </Detail>
+      </Class>
+      <Class Text="議員リスト作成">
+        <Detail Text="栃木県議会議員リスト作成">
+          <WorkTime Date="20110113" Time="02.25" Start="09:00" End="11:15" />
+          <WorkTime Date="20110113" Time="00.75" Start="14:30" End="15:15" />
+        </Detail>
+        <Detail Text="宇都宮市議会議員リスト作成">
+          <WorkTime Date="20110113" Time="01.75" Start="15:15" End="17:00" />
+          <WorkTime Date="20110114" Time="00.50" Start="14:15" End="14:45" />
+        </Detail>
+        <Detail Text="市議会議員住所転記">
+          <WorkTime Date="20110223" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+      </Class>
+      <Class Text="情報共有">
+        <Detail Text="グループウェア書き込み">
+          <WorkTime Date="20110113" Time="00.50" Start="14:00" End="14:30" />
+          <WorkTime Date="20110201" Time="00.50" Start="09:30" End="10:00" />
+        </Detail>
+        <Detail Text="案件管理表書き込み">
+          <WorkTime Date="20110127" Time="00.75" Start="09:15" End="10:00" />
+        </Detail>
+      </Class>
+      <Class Text="クラウド研究会">
+        <Detail Text="定例会議">
+          <WorkTime Date="20110119" Time="03.25" Start="13:00" End="16:15" />
+          <WorkTime Date="20110223" Time="02.25" Start="14:45" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="ファイルサーバ整理">
+        <Detail Text="業務案件に移動">
+          <WorkTime Date="20110120" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+      </Class>
+      <Class Text="デコボコ支援">
+        <Detail Text="聞き取り調査">
+          <WorkTime Date="20110120" Time="01.75" Start="16:00" End="17:45" />
+        </Detail>
+        <Detail Text="Daisyの調査">
+          <WorkTime Date="20110121" Time="02.25" Start="13:15" End="15:30" />
+          <WorkTime Date="20110121" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+        <Detail Text="納品ヒアリング">
+          <WorkTime Date="20110121" Time="00.75" Start="15:30" End="16:15" />
+          <WorkTime Date="20110124" Time="01.50" Start="15:30" End="17:00" />
+        </Detail>
+        <Detail Text="お会計伝票制作">
+          <WorkTime Date="20110124" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110124" Time="00.50" Start="15:00" End="15:30" />
+          <WorkTime Date="20110126" Time="00.50" Start="10:45" End="11:15" />
+        </Detail>
+        <Detail Text="ネットワーク調査">
+          <WorkTime Date="20110125" Time="01.00" Start="17:00" End="18:00" />
+        </Detail>
+      </Class>
+      <Class Text="リハビリ講習会">
+        <Detail Text="チラシ配り">
+          <WorkTime Date="20110125" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110127" Time="00.75" Start="10:30" End="11:15" />
+        </Detail>
+      </Class>
+      <Class Text="とっと支援">
+        <Detail Text="講師補助">
+          <WorkTime Date="20110126" Time="02.75" Start="13:30" End="16:15" />
+        </Detail>
+      </Class>
+      <Class Text="NPO見本市の準備">
+        <Detail Text="NPO見本市の準備">
+          <WorkTime Date="20110127" Time="00.75" Start="11:15" End="12:00" />
+        </Detail>
+        <Detail Text="メール周知">
+          <WorkTime Date="20110127" Time="01.25" Start="13:15" End="14:30" />
+        </Detail>
+      </Class>
+      <Class Text="フェスタmy宇都宮2011">
+        <Detail Text="申し込み準備">
+          <WorkTime Date="20110201" Time="01.25" Start="13:45" End="15:00" />
+          <WorkTime Date="20110202" Time="03.00" Start="14:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="NPO見本市資料整理">
+        <Detail Text="NPO見本市資料整理">
+          <WorkTime Date="20110208" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+      </Class>
+      <Class Text="金井さんからの指示">
+        <Detail Text="書籍の購入">
+          <WorkTime Date="20110209" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="事務作業">
+        <Detail Text="事務作業">
+          <WorkTime Date="20110215" Time="00.25" Start="11:00" End="11:15" />
+          <WorkTime Date="20110223" Time="00.50" Start="11:00" End="11:30" />
+        </Detail>
+      </Class>
+      <Class Text="ソーシャルワーカーデー">
+        <Detail Text="ソーシャルワーカーデーＤＶＤコピー">
+          <WorkTime Date="20110223" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110223" Time="00.75" Start="14:00" End="14:45" />
+          <WorkTime Date="20110224" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110224" Time="02.25" Start="13:00" End="15:15" />
+          <WorkTime Date="20110224" Time="01.75" Start="15:15" End="17:00" />
+          <WorkTime Date="20110225" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110225" Time="03.50" Start="13:00" End="16:30" />
+          <WorkTime Date="20110228" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110228" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="リーダースケジュール管理ツール調査">
+        <Detail Text="スケジュール管理ツール調査">
+          <WorkTime Date="20110228" Time="01.50" Start="14:15" End="15:45" />
+        </Detail>
+      </Class>
+      <Class Text="パソコン講座パソコン設定">
+        <Detail Text="パソコン設定">
+          <WorkTime Date="20110307" Time="03.75" Start="13:15" End="17:00" />
+          <WorkTime Date="20110309" Time="02.00" Start="09:00" End="11:00" />
+          <WorkTime Date="20110314" Time="00.75" Start="11:00" End="11:45" />
+        </Detail>
+      </Class>
+      <Class Text="停電">
+        <Detail Text="停電">
+          <WorkTime Date="20110314" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20110314" Time="00.50" Start="15:15" End="15:45" />
+          <WorkTime Date="20110318" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110322" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="県議会選挙活動">
+        <Detail Text="県議会選挙活動">
+          <WorkTime Date="20110404" Time="02.00" Start="11:00" End="13:00" />
+        </Detail>
+        <Detail Text="おぎのさん事務所支援">
+          <WorkTime Date="20110407" Time="03.25" Start="13:00" End="16:15" />
+        </Detail>
+      </Class>
+      <Class Text="その他の分類">
+        <Detail Text="ファイルサーバNASUOの整理">
+          <WorkTime Date="20110510" Time="03.50" Start="14:00" End="17:30" />
+        </Detail>
+        <Detail Text="イメージ映像制作">
+          <WorkTime Date="20110511" Time="01.50" Start="14:00" End="15:30" />
+        </Detail>
+        <Detail Text="キャスター付き台の制作">
+          <WorkTime Date="20110512" Time="01.50" Start="13:15" End="14:45" />
+          <WorkTime Date="20110513" Time="00.50" Start="09:15" End="09:45" />
+          <WorkTime Date="20110513" Time="01.00" Start="16:15" End="17:15" />
+        </Detail>
+        <Detail Text="ウィルス">
+          <WorkTime Date="20110518" Time="01.50" Start="12:30" End="14:00" />
+        </Detail>
+        <Detail Text="npocc.orgへのアップ">
+          <WorkTime Date="20110520" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+        <Detail Text="講習会準備">
+          <WorkTime Date="20110524" Time="01.00" Start="11:30" End="12:30" />
+        </Detail>
+        <Detail Text="金井殿講習会アシスタント">
+          <WorkTime Date="20110524" Time="04.00" Start="13:30" End="17:30" />
+        </Detail>
+        <Detail Text="小林先生講演ビデオ">
+          <WorkTime Date="20110525" Time="01.75" Start="09:15" End="11:00" />
+        </Detail>
+        <Detail Text="プレス機の移動">
+          <WorkTime Date="20110525" Time="00.50" Start="15:15" End="15:45" />
+        </Detail>
+        <Detail Text="薄井えりかちゃん応援マフラー">
+          <WorkTime Date="20110527" Time="01.00" Start="10:00" End="11:00" />
+        </Detail>
+        <Detail Text="クラウドの本を読む">
+          <WorkTime Date="20110602" Time="00.25" Start="13:45" End="14:00" />
+        </Detail>
+        <Detail Text="節電説明打合せ">
+          <WorkTime Date="20110801" Time="02.00" Start="14:00" End="16:00" />
+        </Detail>
+        <Detail Text="飯塚毅記念館訪問">
+          <WorkTime Date="20110810" Time="03.00" Start="13:15" End="16:15" />
+        </Detail>
+        <Detail Text="FTPフォルダ整理">
+          <WorkTime Date="20110810" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+        <Detail Text="部長と面談">
+          <WorkTime Date="20110811" Time="02.00" Start="16:00" End="18:00" />
+        </Detail>
+        <Detail Text="転居届の作成">
+          <WorkTime Date="20110817" Time="01.25" Start="09:00" End="10:15" />
+        </Detail>
+        <Detail Text="Twitterリスト分類">
+          <WorkTime Date="20110819" Time="00.25" Start="09:00" End="09:15" />
+        </Detail>
+        <Detail Text="金井さんスキャナ対応">
+          <WorkTime Date="20110822" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+        <Detail Text="節電方法">
+          <WorkTime Date="20110826" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+        <Detail Text="SEO営業調査">
+          <WorkTime Date="20110831" Time="00.50" Start="11:45" End="12:15" />
+        </Detail>
+        <Detail Text="ハッピーメーカーさん">
+          <WorkTime Date="20110831" Time="01.50" Start="16:00" End="17:30" />
+        </Detail>
+        <Detail Text="勤怠届作成">
+          <WorkTime Date="20110930" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20111004" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20111017" Time="00.25" Start="11:00" End="11:15" />
+        </Detail>
+        <Detail Text="街作り申請書提出市役所">
+          <WorkTime Date="20111003" Time="00.75" Start="09:00" End="09:45" />
+        </Detail>
+        <Detail Text="看板作成">
+          <WorkTime Date="20111003" Time="01.25" Start="13:30" End="14:45" />
+        </Detail>
+        <Detail Text="Google+のテスト">
+          <WorkTime Date="20111011" Time="00.50" Start="14:30" End="15:00" />
+        </Detail>
+        <Detail Text="テーブルセット運び">
+          <WorkTime Date="20111017" Time="00.75" Start="10:15" End="11:00" />
+        </Detail>
+        <Detail Text="理事長講演準備">
+          <WorkTime Date="20111024" Time="00.75" Start="10:30" End="11:15" />
+        </Detail>
+        <Detail Text="高野さんパソコン引っ越し">
+          <WorkTime Date="20111024" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111027" Time="04.50" Start="13:00" End="17:30" />
+        </Detail>
+        <Detail Text="看板はり">
+          <WorkTime Date="20111024" Time="00.75" Start="14:00" End="14:45" />
+        </Detail>
+        <Detail Text="レミールピアカウンセリング">
+          <WorkTime Date="20111028" Time="01.00" Start="15:30" End="16:30" />
+        </Detail>
+        <Detail Text="EPSONスキャナ設定">
+          <WorkTime Date="20111028" Time="00.25" Start="16:30" End="16:45" />
+        </Detail>
+        <Detail Text="金井理事長のパソコンにSkype">
+          <WorkTime Date="20111111" Time="00.75" Start="14:15" End="15:00" />
+          <WorkTime Date="20111111" Time="00.50" Start="16:00" End="16:30" />
+        </Detail>
+        <Detail Text="志保子さん送迎">
+          <WorkTime Date="20111118" Time="01.00" Start="13:30" End="14:30" />
+        </Detail>
+        <Detail Text="花房会議室作成">
+          <WorkTime Date="20111128" Time="01.00" Start="11:00" End="12:00" />
+        </Detail>
+        <Detail Text="いろいろな調整作業">
+          <WorkTime Date="20111128" Time="01.25" Start="14:15" End="15:30" />
+        </Detail>
+        <Detail Text="2TBハードディスク確認">
+          <WorkTime Date="20111130" Time="00.50" Start="09:30" End="10:00" />
+        </Detail>
+        <Detail Text="新技術説明会">
+          <WorkTime Date="20111202" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20111202" Time="03.50" Start="13:00" End="16:30" />
+        </Detail>
+        <Detail Text="志保子さん自炊セットテスト">
+          <WorkTime Date="20111207" Time="01.75" Start="10:00" End="11:45" />
+          <WorkTime Date="20111207" Time="00.75" Start="15:30" End="16:15" />
+        </Detail>
+        <Detail Text="元川さんたちのパソコンセットアップ">
+          <WorkTime Date="20111208" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20111209" Time="03.25" Start="13:45" End="17:00" />
+        </Detail>
+        <Detail Text="セキュリティソフトセットアップ">
+          <WorkTime Date="20120104" Time="00.25" Start="10:45" End="11:00" />
+        </Detail>
+        <Detail Text="印刷ぽぽら">
+          <WorkTime Date="20120105" Time="02.00" Start="13:45" End="15:45" />
+        </Detail>
+        <Detail Text="花房事務所棚移動">
+          <WorkTime Date="20120112" Time="00.75" Start="13:00" End="13:45" />
+        </Detail>
+        <Detail Text="物品移動">
+          <WorkTime Date="20120112" Time="01.00" Start="16:30" End="17:30" />
+        </Detail>
+        <Detail Text="NCS看板作り">
+          <WorkTime Date="20120117" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20120118" Time="01.50" Start="13:00" End="14:30" />
+        </Detail>
+        <Detail Text="志保子さんパソコンLAN">
+          <WorkTime Date="20120124" Time="00.25" Start="09:15" End="09:30" />
+        </Detail>
+        <Detail Text="駐車場配置図作成">
+          <WorkTime Date="20120125" Time="00.75" Start="15:00" End="15:45" />
+        </Detail>
+        <Detail Text="五味渕病院図面コピー">
+          <WorkTime Date="20120131" Time="01.50" Start="15:30" End="17:00" />
+        </Detail>
+        <Detail Text="えりかちゃんの写真撮影">
+          <WorkTime Date="20120210" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+        <Detail Text="アンケート集計">
+          <WorkTime Date="20120222" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20120222" Time="01.00" Start="10:30" End="11:30" />
+          <WorkTime Date="20120222" Time="01.00" Start="12:15" End="13:15" />
+        </Detail>
+        <Detail Text="志保子さんと大久保さんのパソコン">
+          <WorkTime Date="20120302" Time="01.75" Start="10:00" End="11:45" />
+        </Detail>
+        <Detail Text="岸さんのパソコン引越し">
+          <WorkTime Date="20120305" Time="01.25" Start="12:15" End="13:30" />
+        </Detail>
+      </Class>
+      <Class Text="引っ越し">
+        <Detail Text="事務所引っ越し">
+          <WorkTime Date="20110427" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110428" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110428" Time="03.00" Start="13:00" End="16:00" />
+        </Detail>
+        <Detail Text="アンペア工事">
+          <WorkTime Date="20110429" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+        <Detail Text="五味渕病院引越し">
+          <WorkTime Date="20110914" Time="01.00" Start="16:30" End="17:30" />
+          <WorkTime Date="20110915" Time="01.25" Start="11:00" End="12:15" />
+          <WorkTime Date="20110915" Time="02.50" Start="14:45" End="17:15" />
+          <WorkTime Date="20110916" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110916" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110920" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110920" Time="04.75" Start="13:00" End="17:45" />
+          <WorkTime Date="20110921" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110922" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110926" Time="01.00" Start="10:45" End="11:45" />
+        </Detail>
+        <Detail Text="ちゃ店撤収">
+          <WorkTime Date="20110930" Time="05.25" Start="13:00" End="18:15" />
+        </Detail>
+        <Detail Text="業務メインパソコンの引っ越し">
+          <WorkTime Date="20111005" Time="01.50" Start="14:30" End="16:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="デザイン業務">
+      <Class Text="NPO見本市統一書式パネル">
+        <Detail Text="統一書式パネル">
+          <WorkTime Date="20110104" Time="00.25" Start="15:45" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="CICパンフレット">
+        <Detail Text="ロゴデザイン">
+          <WorkTime Date="20101227" Time="00.75" Start="14:45" End="15:30" />
+        </Detail>
+        <Detail Text="表紙デザイン">
+          <WorkTime Date="20101227" Time="00.75" Start="15:30" End="16:15" />
+        </Detail>
+        <Detail Text="CICパンフレット修正">
+          <WorkTime Date="20110309" Time="00.50" Start="11:00" End="11:30" />
+          <WorkTime Date="20110315" Time="00.75" Start="14:45" End="15:30" />
+          <WorkTime Date="20110316" Time="01.25" Start="13:30" End="14:45" />
+        </Detail>
+        <Detail Text="印刷注文">
+          <WorkTime Date="20110324" Time="00.50" Start="10:45" End="11:15" />
+          <WorkTime Date="20110324" Time="00.50" Start="11:15" End="11:45" />
+        </Detail>
+        <Detail Text="再入稿">
+          <WorkTime Date="20110324" Time="00.50" Start="14:15" End="14:45" />
+        </Detail>
+      </Class>
+      <Class Text="年賀状2011作成">
+        <Class Text="宛名整理">
+          <Detail Text="宛名整理">
+            <WorkTime Date="20101227" Time="01.00" Start="13:45" End="14:45" />
+          </Detail>
+        </Class>
+        <Class Text="宛名印刷">
+          <Detail Text="宛名印刷">
+            <WorkTime Date="20101228" Time="03.00" Start="14:00" End="17:00" />
+          </Detail>
+          <Detail Text="表面印刷">
+            <WorkTime Date="20101229" Time="00.75" Start="10:15" End="11:00" />
+          </Detail>
+        </Class>
+        <Class Text="ポスト投稿">
+          <Detail Text="ポスト投稿">
+            <WorkTime Date="20101229" Time="01.00" Start="11:00" End="12:00" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="名刺作成">
+        <Detail Text="名刺作成">
+          <WorkTime Date="20110107" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110705" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="名刺シート買い物">
+          <WorkTime Date="20110120" Time="01.00" Start="11:15" End="12:15" />
+        </Detail>
+      </Class>
+      <Class Text="NPO見本市自由書式パネル">
+        <Detail Text="自由書式パネル">
+          <WorkTime Date="20110131" Time="00.25" Start="10:15" End="10:30" />
+          <WorkTime Date="20110131" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110131" Time="00.50" Start="13:30" End="14:00" />
+          <WorkTime Date="20110201" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20110201" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="震災応援メッセージ">
+        <Detail Text="応援メッセージ">
+          <WorkTime Date="20110325" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="震災被災地支援サイト">
+        <Detail Text="コンセプト制作">
+          <WorkTime Date="20110401" Time="01.00" Start="09:30" End="10:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="営業業務">
+      <Class Text="営業活動">
+        <Detail Text="営業活動">
+          <WorkTime Date="20110201" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110408" Time="01.00" Start="15:30" End="16:30" />
+        </Detail>
+        <Detail Text="リコーの堀本様来社">
+          <WorkTime Date="20110202" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="名刺整理">
+          <WorkTime Date="20110408" Time="01.00" Start="14:30" End="15:30" />
+        </Detail>
+        <Detail Text="調査">
+          <WorkTime Date="20110412" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="Web巡回＆電話問い合わせ">
+          <WorkTime Date="20110412" Time="02.25" Start="14:00" End="16:15" />
+        </Detail>
+        <Detail Text="CICコンテンツの作成">
+          <WorkTime Date="20110415" Time="00.50" Start="15:30" End="16:00" />
+        </Detail>
+        <Detail Text="なんとなくのにわ訪問">
+          <WorkTime Date="20110415" Time="06.75" Start="17:00" End="23:45" />
+        </Detail>
+        <Detail Text="中野謙作さん面談">
+          <WorkTime Date="20110419" Time="01.75" Start="12:00" End="13:45" />
+        </Detail>
+        <Detail Text="渡辺みゆきさん面談">
+          <WorkTime Date="20110419" Time="02.75" Start="13:45" End="16:30" />
+        </Detail>
+        <Detail Text="アデラ・コンテンポラリーさんと面談">
+          <WorkTime Date="20110421" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="ＩＴサポート事業チラシ作り">
+          <WorkTime Date="20110422" Time="01.75" Start="09:15" End="11:00" />
+        </Detail>
+        <Detail Text="営業会議">
+          <WorkTime Date="20110506" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110824" Time="02.75" Start="14:15" End="17:00" />
+        </Detail>
+        <Detail Text="e-Learning打ち合わせ">
+          <WorkTime Date="20110509" Time="01.00" Start="14:00" End="15:00" />
+        </Detail>
+        <Detail Text="ToDoリスト更新">
+          <WorkTime Date="20110525" Time="00.50" Start="14:45" End="15:15" />
+        </Detail>
+        <Detail Text="営業計画">
+          <WorkTime Date="20110607" Time="01.00" Start="11:00" End="12:00" />
+        </Detail>
+        <Detail Text="ランスタッド事業見学">
+          <WorkTime Date="20110705" Time="00.75" Start="10:00" End="10:45" />
+        </Detail>
+        <Detail Text="配布物の作成">
+          <WorkTime Date="20110902" Time="01.75" Start="14:30" End="16:15" />
+          <WorkTime Date="20110906" Time="01.50" Start="15:45" End="17:15" />
+        </Detail>
+        <Detail Text="Facebookマーケティング">
+          <WorkTime Date="20110908" Time="01.00" Start="13:45" End="14:45" />
+        </Detail>
+        <Detail Text="パンフレットリニューアル">
+          <WorkTime Date="20110913" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+        <Detail Text="DM封入">
+          <WorkTime Date="20110926" Time="03.00" Start="13:00" End="16:00" />
+        </Detail>
+        <Detail Text="名刺印刷">
+          <WorkTime Date="20111220" Time="00.75" Start="16:30" End="17:15" />
+        </Detail>
+      </Class>
+      <Class Text="年賀状2012">
+        <Detail Text="あいさつ文作成">
+          <WorkTime Date="20111222" Time="01.00" Start="13:45" End="14:45" />
+        </Detail>
+        <Detail Text="年賀状2012">
+          <WorkTime Date="20111130" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111201" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="ランサーズ">
+        <Detail Text="ランサーズ案件">
+          <WorkTime Date="20120110" Time="01.00" Start="10:00" End="11:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="イベント業務">
+      <Class Text="就労リハ講習会">
+        <Detail Text="就労リハ講習会">
+          <WorkTime Date="20110205" Time="07.50" Start="10:00" End="17:30" />
+        </Detail>
+      </Class>
+      <Class Text="NPO見本市">
+        <Detail Text="当日作業">
+          <WorkTime Date="20110207" Time="08.00" Start="09:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="就労リハ講習会2012">
+        <Detail Text="就労リハ講習会">
+          <WorkTime Date="20120115" Time="07.00" Start="10:00" End="17:00" />
+        </Detail>
+        <Detail Text="ビデオ編集">
+          <WorkTime Date="20120125" Time="01.00" Start="11:00" End="12:00" />
+        </Detail>
+        <Detail Text="DVD作成">
+          <WorkTime Date="20120126" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20120131" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20120131" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="休憩">
+      <Class Text="休憩">
+        <Detail Text="お昼休み">
+          <WorkTime Date="20101227" Time="00.25" Start="12:30" End="12:45" />
+          <WorkTime Date="20101228" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20101229" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110104" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110105" Time="00.75" Start="12:30" End="13:15" />
+          <WorkTime Date="20110106" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110107" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110111" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110112" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110113" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110114" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20110117" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110118" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110119" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110120" Time="01.00" Start="12:15" End="13:15" />
+          <WorkTime Date="20110121" Time="00.75" Start="12:30" End="13:15" />
+          <WorkTime Date="20110124" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110125" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110126" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110127" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110128" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110131" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110201" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110202" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110203" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110204" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110208" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110209" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110210" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110214" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110215" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110217" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110216" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110218" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110223" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110224" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110225" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110228" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110301" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110302" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110303" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110304" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110307" Time="01.00" Start="12:15" End="13:15" />
+          <WorkTime Date="20110308" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110309" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110310" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110311" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110314" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110315" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110316" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110317" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110318" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110322" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110323" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110324" Time="00.25" Start="12:15" End="12:30" />
+          <WorkTime Date="20110325" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110325" Time="00.25" Start="12:45" End="13:00" />
+          <WorkTime Date="20110329" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110330" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110331" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110401" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110405" Time="00.50" Start="11:45" End="12:15" />
+          <WorkTime Date="20110406" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110407" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110408" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110411" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110412" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110413" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110414" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110415" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110418" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110420" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110421" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110422" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110425" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110426" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110427" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110428" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110429" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110506" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110509" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110510" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110511" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110512" Time="01.00" Start="12:15" End="13:15" />
+          <WorkTime Date="20110513" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110516" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110517" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110518" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110519" Time="00.25" Start="12:15" End="12:30" />
+          <WorkTime Date="20110520" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110523" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110524" Time="01.00" Start="12:30" End="13:30" />
+          <WorkTime Date="20110525" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110526" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110527" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110530" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110530" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110531" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20110601" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110602" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110603" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110606" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110607" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110608" Time="00.25" Start="12:15" End="12:30" />
+          <WorkTime Date="20110609" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110610" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110613" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110615" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110614" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110616" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110617" Time="03.00" Start="10:30" End="13:30" />
+          <WorkTime Date="20110620" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110621" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110622" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110623" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110624" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110628" Time="00.50" Start="12:00" End="12:30" />
+          <WorkTime Date="20110629" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110705" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20110706" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110711" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110712" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110713" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110714" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110723" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110725" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110726" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110728" Time="01.75" Start="12:00" End="13:45" />
+          <WorkTime Date="20110729" Time="01.75" Start="12:00" End="13:45" />
+          <WorkTime Date="20110801" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110802" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110803" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110804" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110805" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110808" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110809" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110810" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110811" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110812" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110817" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110818" Time="00.75" Start="12:30" End="13:15" />
+          <WorkTime Date="20110819" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110820" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110822" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20110823" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110824" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110825" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110826" Time="01.00" Start="12:30" End="13:30" />
+          <WorkTime Date="20110829" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20110831" Time="01.00" Start="12:15" End="13:15" />
+          <WorkTime Date="20110901" Time="00.75" Start="12:30" End="13:15" />
+          <WorkTime Date="20110902" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110905" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110906" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110908" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110909" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110912" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110913" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110914" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20110915" Time="01.25" Start="12:15" End="13:30" />
+          <WorkTime Date="20110916" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110920" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110921" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110922" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110926" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110927" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110928" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20110930" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111003" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111004" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111005" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111006" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111007" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111011" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111012" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111013" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111014" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111015" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111017" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111018" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111019" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111020" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111021" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111024" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111025" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111027" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111028" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111031" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111101" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111102" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111104" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111107" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111108" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111109" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111110" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111111" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111114" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111115" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111117" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111118" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111121" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111122" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111124" Time="01.50" Start="12:00" End="13:30" />
+          <WorkTime Date="20111125" Time="00.75" Start="12:30" End="13:15" />
+          <WorkTime Date="20111128" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111129" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111130" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111201" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111202" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111206" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111207" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111208" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111209" Time="01.00" Start="12:45" End="13:45" />
+          <WorkTime Date="20111212" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111213" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20111214" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111215" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111216" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111219" Time="01.25" Start="12:00" End="13:15" />
+          <WorkTime Date="20111220" Time="00.50" Start="13:45" End="14:15" />
+          <WorkTime Date="20111222" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111226" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111227" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111228" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20111229" Time="01.00" Start="12:30" End="13:30" />
+          <WorkTime Date="20120104" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120105" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20120106" Time="01.00" Start="12:45" End="13:45" />
+          <WorkTime Date="20120107" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120110" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20120111" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120112" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20120116" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120117" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120118" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120119" Time="00.75" Start="12:15" End="13:00" />
+          <WorkTime Date="20120120" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120123" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120124" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120125" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120126" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120130" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120131" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120201" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120202" Time="01.00" Start="12:30" End="13:30" />
+          <WorkTime Date="20120206" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120207" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120209" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120210" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120213" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120214" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120216" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20120220" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120221" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120222" Time="00.25" Start="12:00" End="12:15" />
+          <WorkTime Date="20120224" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120227" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120228" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120301" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120229" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120302" Time="01.00" Start="12:00" End="13:00" />
+          <WorkTime Date="20120305" Time="00.25" Start="12:00" End="12:15" />
+        </Detail>
+        <Detail Text="休憩">
+          <WorkTime Date="20110106" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110112" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110114" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20110117" Time="00.50" Start="09:15" End="09:45" />
+          <WorkTime Date="20110119" Time="01.00" Start="10:30" End="11:30" />
+          <WorkTime Date="20110120" Time="00.50" Start="09:30" End="10:00" />
+          <WorkTime Date="20110119" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110126" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110127" Time="00.50" Start="14:30" End="15:00" />
+          <WorkTime Date="20110128" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110131" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20110208" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110209" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110215" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110221" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110221" Time="03.50" Start="13:30" End="17:00" />
+          <WorkTime Date="20110302" Time="00.50" Start="13:30" End="14:00" />
+          <WorkTime Date="20110302" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20110303" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20110304" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110309" Time="01.00" Start="14:15" End="15:15" />
+          <WorkTime Date="20110309" Time="00.75" Start="15:45" End="16:30" />
+          <WorkTime Date="20110310" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110309" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110310" Time="00.25" Start="13:00" End="13:15" />
+          <WorkTime Date="20110310" Time="01.25" Start="14:00" End="15:15" />
+          <WorkTime Date="20110310" Time="00.25" Start="15:30" End="15:45" />
+          <WorkTime Date="20110310" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110311" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20110311" Time="00.25" Start="14:15" End="14:30" />
+          <WorkTime Date="20110314" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20110316" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110316" Time="00.25" Start="14:45" End="15:00" />
+          <WorkTime Date="20110317" Time="00.50" Start="11:00" End="11:30" />
+          <WorkTime Date="20110318" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110318" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110322" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110322" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110323" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20110323" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110323" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110324" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110328" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110329" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110330" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110331" Time="01.25" Start="13:30" End="14:45" />
+          <WorkTime Date="20110401" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110401" Time="01.00" Start="14:00" End="15:00" />
+          <WorkTime Date="20110401" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110404" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110404" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110405" Time="02.25" Start="14:45" End="17:00" />
+          <WorkTime Date="20110407" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110408" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110411" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110412" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110413" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110413" Time="00.50" Start="14:45" End="15:15" />
+          <WorkTime Date="20110413" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110411" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20110414" Time="02.00" Start="15:00" End="17:00" />
+          <WorkTime Date="20110415" Time="00.25" Start="09:15" End="09:30" />
+          <WorkTime Date="20110415" Time="02.25" Start="09:45" End="12:00" />
+          <WorkTime Date="20110415" Time="02.50" Start="13:00" End="15:30" />
+          <WorkTime Date="20110415" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110418" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20110418" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110419" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110419" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110420" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110421" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110426" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20110429" Time="00.75" Start="09:00" End="09:45" />
+          <WorkTime Date="20110429" Time="00.75" Start="10:45" End="11:30" />
+          <WorkTime Date="20110429" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110425" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110426" Time="02.50" Start="14:30" End="17:00" />
+          <WorkTime Date="20110420" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20110421" Time="02.50" Start="14:30" End="17:00" />
+          <WorkTime Date="20110513" Time="00.50" Start="14:30" End="15:00" />
+          <WorkTime Date="20110517" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110518" Time="00.50" Start="16:45" End="17:15" />
+          <WorkTime Date="20110628" Time="03.00" Start="14:00" End="17:00" />
+          <WorkTime Date="20110629" Time="01.75" Start="14:15" End="16:00" />
+          <WorkTime Date="20110706" Time="00.75" Start="11:00" End="11:45" />
+          <WorkTime Date="20110712" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110713" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110714" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110727" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110729" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110728" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110804" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110803" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110805" Time="03.00" Start="14:00" End="17:00" />
+          <WorkTime Date="20110809" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110818" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110817" Time="00.50" Start="14:30" End="15:00" />
+          <WorkTime Date="20110820" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110820" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20110822" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110822" Time="00.75" Start="11:30" End="12:15" />
+          <WorkTime Date="20110823" Time="02.00" Start="15:00" End="17:00" />
+          <WorkTime Date="20110825" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110825" Time="02.25" Start="14:45" End="17:00" />
+          <WorkTime Date="20110826" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20110902" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110906" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110908" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110908" Time="00.25" Start="13:00" End="13:15" />
+          <WorkTime Date="20110909" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110922" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110926" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110927" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20110928" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110928" Time="03.00" Start="13:00" End="16:00" />
+          <WorkTime Date="20110929" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111003" Time="00.25" Start="09:45" End="10:00" />
+          <WorkTime Date="20111004" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111004" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111005" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111003" Time="02.25" Start="14:45" End="17:00" />
+          <WorkTime Date="20111006" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111006" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20111007" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20111011" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20111011" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111012" Time="01.00" Start="10:00" End="11:00" />
+          <WorkTime Date="20111012" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111013" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111013" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111014" Time="02.25" Start="14:45" End="17:00" />
+          <WorkTime Date="20111015" Time="01.00" Start="09:15" End="10:15" />
+          <WorkTime Date="20111015" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111015" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20111017" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20111017" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111018" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111018" Time="00.25" Start="14:45" End="15:00" />
+          <WorkTime Date="20111018" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20111019" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111020" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111024" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20111024" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111025" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111026" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20111028" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20111101" Time="00.50" Start="16:15" End="16:45" />
+          <WorkTime Date="20111102" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111104" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111104" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111108" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111110" Time="01.25" Start="13:00" End="14:15" />
+          <WorkTime Date="20111114" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20111124" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111124" Time="00.75" Start="15:00" End="15:45" />
+          <WorkTime Date="20111128" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20111128" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111130" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111202" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111207" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111208" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111212" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111213" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111213" Time="00.50" Start="13:45" End="14:15" />
+          <WorkTime Date="20111214" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20111215" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111216" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111219" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111219" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20111221" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20111222" Time="00.25" Start="16:45" End="17:00" />
+          <WorkTime Date="20111226" Time="00.75" Start="09:00" End="09:45" />
+          <WorkTime Date="20111228" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20120104" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20120106" Time="00.75" Start="09:00" End="09:45" />
+          <WorkTime Date="20120106" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20120107" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20120110" Time="00.50" Start="09:15" End="09:45" />
+          <WorkTime Date="20120112" Time="00.50" Start="09:30" End="10:00" />
+          <WorkTime Date="20120116" Time="00.50" Start="09:15" End="09:45" />
+          <WorkTime Date="20120117" Time="00.75" Start="09:15" End="10:00" />
+          <WorkTime Date="20120123" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20120201" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20120201" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20120208" Time="01.50" Start="10:45" End="12:15" />
+          <WorkTime Date="20120210" Time="00.25" Start="10:00" End="10:15" />
+          <WorkTime Date="20120210" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20120214" Time="00.50" Start="11:00" End="11:30" />
+          <WorkTime Date="20120222" Time="00.25" Start="11:30" End="11:45" />
+          <WorkTime Date="20120228" Time="00.25" Start="09:00" End="09:15" />
+          <WorkTime Date="20120228" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20120305" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="デスクトップカスタマイズ">
+          <WorkTime Date="20110509" Time="00.25" Start="16:45" End="17:00" />
+        </Detail>
+        <Detail Text="ローカルフォルダ整理">
+          <WorkTime Date="20110517" Time="01.25" Start="13:00" End="14:15" />
+        </Detail>
+        <Detail Text="居眠り">
+          <WorkTime Date="20110913" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+        <Detail Text="何をしたらいいか考える">
+          <WorkTime Date="20110914" Time="01.50" Start="09:30" End="11:00" />
+          <WorkTime Date="20111130" Time="00.50" Start="10:00" End="10:30" />
+        </Detail>
+        <Detail Text="サンクスお茶買い出し">
+          <WorkTime Date="20111109" Time="00.25" Start="10:30" End="10:45" />
+          <WorkTime Date="20111115" Time="00.50" Start="15:00" End="15:30" />
+          <WorkTime Date="20111116" Time="00.50" Start="10:45" End="11:15" />
+          <WorkTime Date="20111124" Time="00.50" Start="14:00" End="14:30" />
+          <WorkTime Date="20111219" Time="00.25" Start="10:30" End="10:45" />
+          <WorkTime Date="20111219" Time="00.50" Start="14:30" End="15:00" />
+        </Detail>
+        <Detail Text="私用外出">
+          <WorkTime Date="20111220" Time="01.75" Start="12:00" End="13:45" />
+        </Detail>
+        <Detail Text="暖まるのを待つ">
+          <WorkTime Date="20111228" Time="00.25" Start="09:00" End="09:15" />
+        </Detail>
+        <Detail Text="散歩＆灯油買い出し">
+          <WorkTime Date="20120228" Time="00.50" Start="15:00" End="15:30" />
+        </Detail>
+        <Detail Text="いろいろなことを考える">
+          <WorkTime Date="20120301" Time="02.50" Start="14:30" End="17:00" />
+          <WorkTime Date="20120302" Time="02.50" Start="13:00" End="15:30" />
+        </Detail>
+      </Class>
+      <Class Text="仕事になりそうな休憩">
+        <Detail Text="メールのチェック">
+          <WorkTime Date="20120207" Time="00.75" Start="09:00" End="09:45" />
+          <WorkTime Date="20120209" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="情報収集">
+          <WorkTime Date="20120208" Time="00.75" Start="09:00" End="09:45" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="社内研修業務">
+      <Class Text="磯飛健太">
+        <Class Text="Access研修">
+          <Detail Text="磯飛健太君Access2003研修">
+            <WorkTime Date="20110311" Time="00.25" Start="13:00" End="13:15" />
+            <WorkTime Date="20110315" Time="00.75" Start="15:30" End="16:15" />
+            <WorkTime Date="20110316" Time="00.25" Start="13:00" End="13:15" />
+          </Detail>
+        </Class>
+        <Class Text="Web">
+          <Detail Text="HTMLの演習">
+            <WorkTime Date="20110401" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110404" Time="01.50" Start="13:00" End="14:30" />
+            <WorkTime Date="20110405" Time="01.00" Start="12:15" End="13:15" />
+            <WorkTime Date="20110413" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110420" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110425" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="演習結果のチェック">
+            <WorkTime Date="20110330" Time="01.25" Start="14:00" End="15:15" />
+            <WorkTime Date="20110330" Time="00.25" Start="15:15" End="15:30" />
+          </Detail>
+          <Detail Text="プログラミング演習">
+            <WorkTime Date="20110325" Time="00.50" Start="12:15" End="12:45" />
+            <WorkTime Date="20110329" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110330" Time="00.75" Start="12:30" End="13:15" />
+          </Detail>
+        </Class>
+        <Class Text="VisualBasic">
+          <Detail Text="VisualStudioセットアップ">
+            <WorkTime Date="20110324" Time="01.25" Start="12:30" End="13:45" />
+          </Detail>
+          <Detail Text="VisualBasic基礎">
+            <WorkTime Date="20110426" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+        </Class>
+        <Class Text="その他">
+          <Detail Text="Word段落罫線">
+            <WorkTime Date="20110422" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="おしゃべり">
+            <WorkTime Date="20110414" Time="00.75" Start="12:30" End="13:15" />
+          </Detail>
+          <Detail Text="事業をやりたいという話">
+            <WorkTime Date="20110412" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="ブログアクセス解析">
+            <WorkTime Date="20110411" Time="00.75" Start="12:15" End="13:00" />
+          </Detail>
+          <Detail Text="コミュニティ立ち上げ">
+            <WorkTime Date="20110408" Time="00.75" Start="12:15" End="13:00" />
+          </Detail>
+          <Detail Text="FlashVideo">
+            <WorkTime Date="20110506" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="障がい者マップ">
+            <WorkTime Date="20110509" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="Wordワードアート">
+            <WorkTime Date="20110510" Time="00.25" Start="12:30" End="12:45" />
+          </Detail>
+          <Detail Text="GoogleAnalytics">
+            <WorkTime Date="20110510" Time="00.50" Start="12:45" End="13:15" />
+          </Detail>
+          <Detail Text="radio告知ページの作成">
+            <WorkTime Date="20110514" Time="02.00" Start="19:00" End="21:00" />
+          </Detail>
+          <Detail Text="ウィルスソフト設定">
+            <WorkTime Date="20110518" Time="00.50" Start="14:30" End="15:00" />
+          </Detail>
+          <Detail Text="Twitterのリストを作ってもらう">
+            <WorkTime Date="20110527" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+        </Class>
+        <Class Text="研修準備">
+          <Detail Text="課題作成">
+            <WorkTime Date="20110316" Time="00.75" Start="16:15" End="17:00" />
+            <WorkTime Date="20110329" Time="01.25" Start="10:45" End="12:00" />
+          </Detail>
+          <Detail Text="研修計画書作成">
+            <WorkTime Date="20110315" Time="00.75" Start="16:15" End="17:00" />
+          </Detail>
+        </Class>
+        <Class Text="Java">
+          <Detail Text="Eclipseセットアップ">
+            <WorkTime Date="20110516" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110517" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+          <Detail Text="for構文">
+            <WorkTime Date="20110519" Time="00.50" Start="12:30" End="13:00" />
+          </Detail>
+        </Class>
+        <Class Text="その他2">
+          <Detail Text="youtube動画配信の打ち合わせ">
+            <WorkTime Date="20110603" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110606" Time="00.75" Start="12:15" End="13:00" />
+            <WorkTime Date="20110607" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110608" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110609" Time="00.75" Start="10:45" End="11:30" />
+            <WorkTime Date="20110609" Time="01.00" Start="12:15" End="13:15" />
+            <WorkTime Date="20110610" Time="00.75" Start="09:30" End="10:15" />
+            <WorkTime Date="20110610" Time="00.75" Start="12:15" End="13:00" />
+            <WorkTime Date="20110613" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110621" Time="00.75" Start="12:15" End="13:00" />
+            <WorkTime Date="20110623" Time="00.75" Start="12:15" End="13:00" />
+            <WorkTime Date="20110628" Time="00.50" Start="12:30" End="13:00" />
+            <WorkTime Date="20110705" Time="00.75" Start="12:15" End="13:00" />
+          </Detail>
+        </Class>
+      </Class>
+    </Business>
+    <Business Text="Daisyに関する事業化">
+      <Class Text="分類名CL00130">
+        <Detail Text="友光さんと打合せDaisyに関して">
+          <WorkTime Date="20110526" Time="01.00" Start="11:15" End="12:15" />
+          <WorkTime Date="20110609" Time="02.75" Start="15:00" End="17:45" />
+        </Detail>
+        <Detail Text="Daisyニーズの掘り起し">
+          <WorkTime Date="20110615" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+        <Detail Text="著作権関係の調査">
+          <WorkTime Date="20110621" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20110623" Time="00.50" Start="15:45" End="16:15" />
+        </Detail>
+        <Detail Text="読上げブラウザの検証">
+          <WorkTime Date="20110628" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="Tobiの使い方学習">
+          <WorkTime Date="20110714" Time="00.75" Start="10:15" End="11:00" />
+        </Detail>
+        <Detail Text="DaisyTranslatorの検証">
+          <WorkTime Date="20110714" Time="01.25" Start="13:00" End="14:15" />
+        </Detail>
+        <Detail Text="DaisyOpfの情報収集">
+          <WorkTime Date="20110818" Time="01.00" Start="11:30" End="12:30" />
+        </Detail>
+        <Detail Text="風の又三郎のDaisy化">
+          <WorkTime Date="20110819" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="報告書作成">
+          <WorkTime Date="20110915" Time="00.50" Start="14:15" End="14:45" />
+          <WorkTime Date="20111007" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20111007" Time="02.50" Start="13:00" End="15:30" />
+        </Detail>
+        <Detail Text="Daisy">
+          <WorkTime Date="20110506" Time="01.50" Start="15:00" End="16:30" />
+          <WorkTime Date="20110509" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110509" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="打ち合わせ">
+          <WorkTime Date="20111020" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="最終報告書作成">
+        <Detail Text="Daisy最終報告書作成">
+          <WorkTime Date="20111124" Time="00.50" Start="13:30" End="14:00" />
+          <WorkTime Date="20111128" Time="01.50" Start="09:30" End="11:00" />
+          <WorkTime Date="20111130" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+        <Detail Text="情報収集">
+          <WorkTime Date="20111125" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="e-Learning事業">
+      <Class Text="分類名CL00129">
+        <Detail Text="e-Learning打ち合わせ">
+          <WorkTime Date="20110622" Time="01.50" Start="15:00" End="16:30" />
+        </Detail>
+        <Detail Text="Moodle情報収集">
+          <WorkTime Date="20110825" Time="00.75" Start="13:45" End="14:30" />
+        </Detail>
+        <Detail Text="高田主催ミーティング">
+          <WorkTime Date="20111128" Time="01.25" Start="13:00" End="14:15" />
+        </Detail>
+        <Detail Text="前日準備">
+          <WorkTime Date="20111206" Time="03.75" Start="14:00" End="17:45" />
+        </Detail>
+        <Detail Text="当日立会">
+          <WorkTime Date="20111207" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+        <Detail Text="Skypeテスト">
+          <WorkTime Date="20111212" Time="01.25" Start="13:00" End="14:15" />
+        </Detail>
+        <Detail Text="自前企画テスト">
+          <WorkTime Date="20120111" Time="02.75" Start="13:00" End="15:45" />
+        </Detail>
+        <Detail Text="テスト準備">
+          <WorkTime Date="20120112" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+        <Detail Text="当日立会">
+          <WorkTime Date="20120113" Time="07.75" Start="09:15" End="17:00" />
+        </Detail>
+        <Detail Text="開校式">
+          <WorkTime Date="20120116" Time="00.50" Start="09:45" End="10:15" />
+        </Detail>
+        <Detail Text="全体ミーティング">
+          <WorkTime Date="20120116" Time="01.50" Start="16:30" End="18:00" />
+        </Detail>
+        <Detail Text="講義立会い">
+          <WorkTime Date="20120126" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="CICホームページ">
+      <Class Text="分類名CL00133">
+        <Detail Text="業務実績管理表の作成">
+          <WorkTime Date="20110713" Time="01.25" Start="10:45" End="12:00" />
+        </Detail>
+        <Detail Text="デザイン案作成">
+          <WorkTime Date="20110208" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+        <Detail Text="節電対策ページの追加">
+          <WorkTime Date="20110829" Time="01.00" Start="09:15" End="10:15" />
+          <WorkTime Date="20110829" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110829" Time="00.50" Start="13:30" End="14:00" />
+        </Detail>
+        <Detail Text="タイトルイメージV20110829003">
+          <WorkTime Date="20110829" Time="01.00" Start="14:00" End="15:00" />
+        </Detail>
+        <Detail Text="CIC問い合わせフォーム修正">
+          <WorkTime Date="20110829" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="CICホームページリニューアル">
+        <Class Text="Type01の作成">
+          <Detail Text="トップページ">
+            <WorkTime Date="20110425" Time="01.00" Start="09:00" End="10:00" />
+            <WorkTime Date="20110425" Time="00.75" Start="11:15" End="12:00" />
+            <WorkTime Date="20110425" Time="01.75" Start="13:00" End="14:45" />
+            <WorkTime Date="20110429" Time="01.00" Start="09:45" End="10:45" />
+          </Detail>
+          <Detail Text="コンテンツページ">
+            <WorkTime Date="20110425" Time="01.00" Start="15:00" End="16:00" />
+            <WorkTime Date="20110426" Time="00.25" Start="09:15" End="09:30" />
+            <WorkTime Date="20110427" Time="03.00" Start="09:00" End="12:00" />
+            <WorkTime Date="20110428" Time="01.00" Start="16:00" End="17:00" />
+            <WorkTime Date="20110429" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110429" Time="03.00" Start="13:30" End="16:30" />
+          </Detail>
+        </Class>
+        <Class Text="Type02の作成">
+          <Detail Text="Type02のデザイン">
+            <WorkTime Date="20110511" Time="02.50" Start="09:45" End="12:15" />
+            <WorkTime Date="20110511" Time="02.50" Start="15:30" End="18:00" />
+            <WorkTime Date="20110512" Time="00.50" Start="08:30" End="09:00" />
+            <WorkTime Date="20110512" Time="01.50" Start="10:45" End="12:15" />
+            <WorkTime Date="20110512" Time="01.25" Start="14:45" End="16:00" />
+            <WorkTime Date="20110513" Time="00.25" Start="08:30" End="08:45" />
+            <WorkTime Date="20110513" Time="02.25" Start="09:45" End="12:00" />
+          </Detail>
+          <Detail Text="画像さがし">
+            <WorkTime Date="20110511" Time="00.75" Start="09:00" End="09:45" />
+          </Detail>
+          <Detail Text="Type02.v3のデザイン">
+            <WorkTime Date="20110513" Time="00.50" Start="15:00" End="15:30" />
+            <WorkTime Date="20110519" Time="04.00" Start="13:00" End="17:00" />
+          </Detail>
+          <Detail Text="Type02v4のデザイン">
+            <WorkTime Date="20110520" Time="01.00" Start="11:00" End="12:00" />
+          </Detail>
+        </Class>
+        <Class Text="レビュー">
+          <Detail Text="第二回レビュー">
+            <WorkTime Date="20110513" Time="01.50" Start="13:00" End="14:30" />
+          </Detail>
+        </Class>
+        <Detail Text="実績紹介の確認作業">
+          <WorkTime Date="20110520" Time="00.50" Start="16:00" End="16:30" />
+        </Detail>
+        <Detail Text="最終更新">
+          <WorkTime Date="20110523" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110523" Time="00.50" Start="13:00" End="13:30" />
+        </Detail>
+        <Detail Text="高田レビューの対応">
+          <WorkTime Date="20110525" Time="00.75" Start="08:15" End="09:00" />
+        </Detail>
+        <Detail Text="佐藤部長の指示修正、followusを取る">
+          <WorkTime Date="20110525" Time="00.75" Start="14:00" End="14:45" />
+        </Detail>
+        <Detail Text="定期的な更新">
+          <WorkTime Date="20110603" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+        <Detail Text="スタッフ紹介更新">
+          <WorkTime Date="20110810" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+      </Class>
+      <Class Text="更新">
+        <Detail Text="猪瀬君に依頼をする">
+          <WorkTime Date="20111214" Time="01.00" Start="10:30" End="11:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="Facebook活用">
+      <Class Text="分類名CL00134">
+        <Detail Text="Facebookいいねの取り付け">
+          <WorkTime Date="20110723" Time="00.50" Start="11:30" End="12:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="グラウンドワークインターンシップ">
+      <Class Text="インターンシップ申請">
+        <Detail Text="インターンシップ申請">
+          <WorkTime Date="20110113" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110113" Time="00.75" Start="13:15" End="14:00" />
+        </Detail>
+        <Detail Text="説明会">
+          <WorkTime Date="20110726" Time="03.00" Start="09:00" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00148">
+        <Detail Text="グラウンドワーク交流システム">
+          <WorkTime Date="20110902" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="チーム支援">
+      <Class Text="佐藤部長対応">
+        <Detail Text="佐藤部長対応">
+          <WorkTime Date="20110606" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110607" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20110820" Time="00.50" Start="14:00" End="14:30" />
+        </Detail>
+      </Class>
+      <Class Text="北野さん対応">
+        <Detail Text="北野さん対応">
+          <WorkTime Date="20110307" Time="00.50" Start="11:45" End="12:15" />
+          <WorkTime Date="20110308" Time="00.50" Start="11:45" End="12:15" />
+          <WorkTime Date="20110426" Time="00.50" Start="09:30" End="10:00" />
+          <WorkTime Date="20110516" Time="00.75" Start="14:45" End="15:30" />
+          <WorkTime Date="20110518" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110518" Time="00.50" Start="14:00" End="14:30" />
+          <WorkTime Date="20110518" Time="01.50" Start="15:00" End="16:30" />
+          <WorkTime Date="20110520" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20110526" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20110526" Time="01.25" Start="13:00" End="14:15" />
+          <WorkTime Date="20110602" Time="00.25" Start="13:00" End="13:15" />
+          <WorkTime Date="20110607" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110802" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20110804" Time="01.50" Start="14:00" End="15:30" />
+          <WorkTime Date="20110825" Time="00.25" Start="14:30" End="14:45" />
+          <WorkTime Date="20120125" Time="00.75" Start="14:15" End="15:00" />
+        </Detail>
+        <Detail Text="阿久津市議リファクタリング">
+          <WorkTime Date="20110527" Time="00.75" Start="14:15" End="15:00" />
+        </Detail>
+        <Detail Text="RoR3のレッスン">
+          <WorkTime Date="20110628" Time="01.75" Start="10:15" End="12:00" />
+        </Detail>
+        <Detail Text="北野さん引越し">
+          <WorkTime Date="20120123" Time="01.50" Start="17:00" End="18:30" />
+        </Detail>
+        <Detail Text="北野さんGoogleApps">
+          <WorkTime Date="20120124" Time="00.50" Start="09:30" End="10:00" />
+        </Detail>
+        <Detail Text="北野さんパソコン調子悪い">
+          <WorkTime Date="20120125" Time="00.75" Start="09:00" End="09:45" />
+        </Detail>
+      </Class>
+      <Class Text="関山さん対応">
+        <Detail Text="関山さん対応">
+          <WorkTime Date="20110324" Time="00.50" Start="13:45" End="14:15" />
+          <WorkTime Date="20110926" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20111005" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111011" Time="00.75" Start="15:45" End="16:30" />
+          <WorkTime Date="20111017" Time="02.00" Start="13:15" End="15:15" />
+          <WorkTime Date="20111017" Time="00.50" Start="16:30" End="17:00" />
+        </Detail>
+      </Class>
+      <Class Text="猪瀬君対応">
+        <Detail Text="猪瀬君支援">
+          <WorkTime Date="20110823" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110823" Time="00.75" Start="13:00" End="13:45" />
+        </Detail>
+        <Detail Text="メルマガ記事探し">
+          <WorkTime Date="20120124" Time="00.75" Start="10:00" End="10:45" />
+        </Detail>
+      </Class>
+      <Class Text="佐藤順対応">
+        <Detail Text="佐藤順対応_by_高田">
+          <WorkTime Date="20111013" Time="01.25" Start="14:30" End="15:45" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00166">
+        <Detail Text="鹿野さんのつぶやき掘り">
+          <WorkTime Date="20111024" Time="00.50" Start="16:30" End="17:00" />
+        </Detail>
+        <Detail Text="高田くんと議論">
+          <WorkTime Date="20111114" Time="02.00" Start="13:00" End="15:00" />
+        </Detail>
+      </Class>
+      <Class Text="志保子さん対応">
+        <Detail Text="志保子さん対応">
+          <WorkTime Date="20111101" Time="00.75" Start="16:45" End="17:30" />
+          <WorkTime Date="20120202" Time="00.50" Start="12:00" End="12:30" />
+        </Detail>
+      </Class>
+      <Class Text="大久保さん">
+        <Detail Text="メールアカウント作成">
+          <WorkTime Date="20120125" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="理事長特命">
+      <Class Text="分類名CL00149">
+        <Detail Text="働くしあわせプロジェクト調査">
+          <WorkTime Date="20110905" Time="02.25" Start="09:45" End="12:00" />
+        </Detail>
+        <Detail Text="PowerPointテーマづくり">
+          <WorkTime Date="20111017" Time="00.50" Start="11:15" End="11:45" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="メールマガジン発行">
+      <Class Text="分類名CL00152">
+        <Detail Text="メールアドレスリスト作成">
+          <WorkTime Date="20110909" Time="00.25" Start="09:30" End="09:45" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="発達障がい支援教材">
+      <Class Text="分類名CL00165">
+        <Detail Text="東京工芸大学のサイト学習">
+          <WorkTime Date="20111024" Time="01.50" Start="14:45" End="16:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="ホームページ携帯対応">
+      <Class Text="NPOCC">
+        <Detail Text="技術調査">
+          <WorkTime Date="20111114" Time="01.25" Start="10:45" End="12:00" />
+        </Detail>
+        <Detail Text="実装検証">
+          <WorkTime Date="20111114" Time="01.75" Start="15:00" End="16:45" />
+          <WorkTime Date="20111115" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20111115" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20111115" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20111116" Time="01.75" Start="09:00" End="10:45" />
+          <WorkTime Date="20111116" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20111116" Time="03.75" Start="12:00" End="15:45" />
+        </Detail>
+        <Detail Text="実装電話番号対応">
+          <WorkTime Date="20111117" Time="00.75" Start="13:00" End="13:45" />
+        </Detail>
+      </Class>
+      <Class Text="デコボコ">
+        <Detail Text="実装">
+          <WorkTime Date="20111117" Time="01.50" Start="14:00" End="15:30" />
+          <WorkTime Date="20111117" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111118" Time="01.50" Start="10:30" End="12:00" />
+          <WorkTime Date="20111118" Time="00.50" Start="13:00" End="13:30" />
+          <WorkTime Date="20111118" Time="01.50" Start="14:30" End="16:00" />
+          <WorkTime Date="20111122" Time="01.75" Start="15:00" End="16:45" />
+          <WorkTime Date="20111128" Time="00.50" Start="15:30" End="16:00" />
+        </Detail>
+      </Class>
+      <Class Text="打合せ">
+        <Detail Text="理事長と打合せ">
+          <WorkTime Date="20111222" Time="00.50" Start="16:15" End="16:45" />
+        </Detail>
+      </Class>
+      <Class Text="サーバ設置">
+        <Detail Text="サーバ設置">
+          <WorkTime Date="20120118" Time="01.50" Start="14:30" End="16:00" />
+          <WorkTime Date="20120119" Time="03.25" Start="13:45" End="17:00" />
+          <WorkTime Date="20120120" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20120111" Time="00.50" Start="16:30" End="17:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="わくわくアートカレンダー">
+      <Class Text="分類名CL00172">
+        <Detail Text="わくわくアート準備">
+          <WorkTime Date="20111121" Time="01.50" Start="10:30" End="12:00" />
+        </Detail>
+        <Detail Text="わくわくアートポスター封入">
+          <WorkTime Date="20111121" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20111130" Time="01.25" Start="15:00" End="16:15" />
+          <WorkTime Date="20111206" Time="01.00" Start="13:00" End="14:00" />
+          <WorkTime Date="20111207" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20111207" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="わくわくアート卓上カレンダー封入">
+          <WorkTime Date="20111122" Time="00.50" Start="09:00" End="09:30" />
+          <WorkTime Date="20111122" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111122" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20111129" Time="01.75" Start="14:15" End="16:00" />
+          <WorkTime Date="20111129" Time="00.50" Start="16:30" End="17:00" />
+          <WorkTime Date="20111201" Time="03.00" Start="13:00" End="16:00" />
+        </Detail>
+        <Detail Text="市役所納品">
+          <WorkTime Date="20111129" Time="00.75" Start="13:30" End="14:15" />
+          <WorkTime Date="20111129" Time="00.50" Start="16:00" End="16:30" />
+          <WorkTime Date="20111201" Time="02.50" Start="16:00" End="18:30" />
+          <WorkTime Date="20111213" Time="00.75" Start="14:45" End="15:30" />
+          <WorkTime Date="20111220" Time="01.75" Start="14:15" End="16:00" />
+          <WorkTime Date="20120111" Time="00.50" Start="09:45" End="10:15" />
+        </Detail>
+        <Detail Text="後片付け">
+          <WorkTime Date="20111208" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20111208" Time="00.50" Start="14:15" End="14:45" />
+        </Detail>
+        <Detail Text="宇障連の納品">
+          <WorkTime Date="20120112" Time="00.75" Start="10:00" End="10:45" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="いのっち研修">
+      <Class Text="分類名CL00173">
+        <Detail Text="課題を考える">
+          <WorkTime Date="20111122" Time="00.25" Start="16:45" End="17:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="スポレク">
+      <Class Text="分類名CL00175">
+        <Detail Text="買い物">
+          <WorkTime Date="20111125" Time="00.50" Start="12:00" End="12:30" />
+        </Detail>
+        <Detail Text="前日準備">
+          <WorkTime Date="20111125" Time="03.00" Start="14:00" End="17:00" />
+        </Detail>
+        <Detail Text="スポレク当日">
+          <WorkTime Date="20111126" Time="04.25" Start="09:15" End="13:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="年賀状">
+      <Class Text="名刺DB">
+        <Detail Text="名刺読み込み">
+          <WorkTime Date="20111214" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20111214" Time="02.50" Start="13:45" End="16:15" />
+        </Detail>
+        <Detail Text="データ修正">
+          <WorkTime Date="20111215" Time="03.00" Start="13:00" End="16:00" />
+          <WorkTime Date="20111216" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20111219" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20111219" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20111219" Time="00.75" Start="13:15" End="14:00" />
+          <WorkTime Date="20111219" Time="01.75" Start="15:00" End="16:45" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00188">
+        <Detail Text="年賀状文面">
+          <WorkTime Date="20111226" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+        <Detail Text="文面印刷">
+          <WorkTime Date="20111229" Time="01.25" Start="09:00" End="10:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="就職活動">
+      <Class Text="ハローワーク">
+        <Detail Text="求人検索">
+          <WorkTime Date="20111219" Time="00.50" Start="14:00" End="14:30" />
+          <WorkTime Date="20120116" Time="00.50" Start="11:30" End="12:00" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00203">
+        <Detail Text="理事長面談">
+          <WorkTime Date="20120220" Time="00.50" Start="12:45" End="13:15" />
+        </Detail>
+        <Detail Text="スキルシート記入">
+          <WorkTime Date="20120221" Time="00.50" Start="11:30" End="12:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="ポータルサイト企画">
+      <Class Text="事前準備">
+        <Detail Text="企画ニーズ作成">
+          <WorkTime Date="20120105" Time="01.00" Start="16:15" End="17:15" />
+        </Detail>
+        <Detail Text="企画案を考える">
+          <WorkTime Date="20120110" Time="01.00" Start="13:30" End="14:30" />
+        </Detail>
+        <Detail Text="技術的調査SNS">
+          <WorkTime Date="20120111" Time="00.75" Start="09:00" End="09:45" />
+          <WorkTime Date="20120111" Time="01.75" Start="10:15" End="12:00" />
+          <WorkTime Date="20120111" Time="00.50" Start="15:45" End="16:15" />
+          <WorkTime Date="20120112" Time="01.50" Start="10:45" End="12:15" />
+          <WorkTime Date="20120112" Time="02.75" Start="13:45" End="16:30" />
+        </Detail>
+        <Detail Text="技術的調査報告書">
+          <WorkTime Date="20120116" Time="03.50" Start="13:00" End="16:30" />
+        </Detail>
+      </Class>
+      <Class Text="学習">
+        <Detail Text="プラグインのインストール">
+          <WorkTime Date="20120301" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20120229" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20120302" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+        <Detail Text="Symfony学習">
+          <WorkTime Date="20120208" Time="01.00" Start="09:45" End="10:45" />
+          <WorkTime Date="20120214" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20120215" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20120220" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20120222" Time="00.50" Start="10:00" End="10:30" />
+          <WorkTime Date="20120222" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20120222" Time="02.00" Start="13:15" End="15:15" />
+          <WorkTime Date="20120223" Time="00.75" Start="12:00" End="12:45" />
+          <WorkTime Date="20120224" Time="02.50" Start="09:00" End="11:30" />
+          <WorkTime Date="20120227" Time="03.00" Start="13:00" End="16:00" />
+          <WorkTime Date="20120301" Time="01.25" Start="09:00" End="10:15" />
+        </Detail>
+        <Detail Text="テスト環境構築">
+          <WorkTime Date="20120207" Time="02.25" Start="09:45" End="12:00" />
+          <WorkTime Date="20120216" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20120220" Time="01.50" Start="13:15" End="14:45" />
+          <WorkTime Date="20120221" Time="02.25" Start="09:15" End="11:30" />
+          <WorkTime Date="20120223" Time="01.50" Start="15:00" End="16:30" />
+          <WorkTime Date="20120227" Time="00.25" Start="11:45" End="12:00" />
+        </Detail>
+        <Detail Text="レンタルサーバ設定">
+          <WorkTime Date="20120125" Time="01.25" Start="09:45" End="11:00" />
+          <WorkTime Date="20120130" Time="01.25" Start="09:00" End="10:15" />
+          <WorkTime Date="20120130" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20120130" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20120202" Time="00.50" Start="13:30" End="14:00" />
+          <WorkTime Date="20120202" Time="01.00" Start="14:00" End="15:00" />
+          <WorkTime Date="20120202" Time="01.75" Start="15:00" End="16:45" />
+        </Detail>
+      </Class>
+      <Class Text="打合せ">
+        <Detail Text="打合せ">
+          <WorkTime Date="20120106" Time="03.00" Start="09:45" End="12:45" />
+          <WorkTime Date="20120110" Time="02.75" Start="14:30" End="17:15" />
+          <WorkTime Date="20120215" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+        <Detail Text="部長への進捗報告">
+          <WorkTime Date="20120223" Time="00.75" Start="13:15" End="14:00" />
+          <WorkTime Date="20120224" Time="01.25" Start="12:45" End="14:00" />
+          <WorkTime Date="20120228" Time="01.00" Start="17:00" End="18:00" />
+          <WorkTime Date="20120301" Time="01.50" Start="10:15" End="11:45" />
+        </Detail>
+      </Class>
+      <Class Text="デザイン検討">
+        <Detail Text="ログイン後右の部分">
+          <WorkTime Date="20120305" Time="03.00" Start="13:30" End="16:30" />
+        </Detail>
+        <Detail Text="次にどうするか考える">
+          <WorkTime Date="20120229" Time="00.75" Start="10:00" End="10:45" />
+          <WorkTime Date="20120229" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20120301" Time="01.50" Start="13:00" End="14:30" />
+        </Detail>
+        <Detail Text="デザインカスタマイズ">
+          <WorkTime Date="20120224" Time="01.75" Start="14:00" End="15:45" />
+          <WorkTime Date="20120228" Time="02.00" Start="13:00" End="15:00" />
+          <WorkTime Date="20120228" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20120229" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20120227" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+        <Detail Text="北野デザインの整理">
+          <WorkTime Date="20120227" Time="01.00" Start="09:15" End="10:15" />
+        </Detail>
+        <Detail Text="バナー制作">
+          <WorkTime Date="20120220" Time="00.50" Start="11:30" End="12:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="DVD作成">
+      <Class Text="就労リハ2012">
+        <Detail Text="就労リハ2012DVD作成">
+          <WorkTime Date="20120118" Time="03.00" Start="09:00" End="12:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="井上ビルパソコン設定">
+      <Class Text="分類名CL00197">
+        <Detail Text="パソコン設定">
+          <WorkTime Date="20120120" Time="01.00" Start="17:00" End="18:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="小林英二様">
+    <Business Text="テープ起こし">
+      <Class Text="テープ起こし">
+        <Detail Text="テープ起こし">
+          <WorkTime Date="20101228" Time="02.75" Start="09:15" End="12:00" />
+          <WorkTime Date="20101228" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="パソコン調整">
+      <Class Text="パソコン調整">
+        <Detail Text="小林英二さんのパソコン調整">
+          <WorkTime Date="20110217" Time="02.75" Start="14:30" End="17:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="テープ起こし">
+      <Class Text="第四回テープ起こし">
+        <Detail Text="第四回テープ起こし">
+          <WorkTime Date="20110307" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20110309" Time="01.00" Start="13:15" End="14:15" />
+          <WorkTime Date="20110310" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20110310" Time="00.75" Start="13:15" End="14:00" />
+          <WorkTime Date="20110310" Time="00.25" Start="15:15" End="15:30" />
+          <WorkTime Date="20110310" Time="00.75" Start="15:45" End="16:30" />
+          <WorkTime Date="20110311" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110311" Time="00.50" Start="10:30" End="11:00" />
+          <WorkTime Date="20110311" Time="01.00" Start="14:30" End="15:30" />
+          <WorkTime Date="20110314" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110314" Time="00.50" Start="14:45" End="15:15" />
+          <WorkTime Date="20110315" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110315" Time="01.75" Start="13:00" End="14:45" />
+          <WorkTime Date="20110316" Time="01.25" Start="15:00" End="16:15" />
+        </Detail>
+      </Class>
+      <Class Text="第五回テープ起こし">
+        <Detail Text="第五回テープ起こし">
+          <WorkTime Date="20110401" Time="01.00" Start="10:30" End="11:30" />
+          <WorkTime Date="20110405" Time="01.50" Start="13:15" End="14:45" />
+          <WorkTime Date="20110408" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110408" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110412" Time="01.00" Start="10:45" End="11:45" />
+          <WorkTime Date="20110412" Time="00.75" Start="16:15" End="17:00" />
+          <WorkTime Date="20110413" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110414" Time="00.25" Start="10:45" End="11:00" />
+          <WorkTime Date="20110414" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110414" Time="01.75" Start="13:15" End="15:00" />
+          <WorkTime Date="20110415" Time="00.25" Start="09:30" End="09:45" />
+        </Detail>
+        <Detail Text="テープ起こしまとめ">
+          <WorkTime Date="20110415" Time="00.50" Start="16:00" End="16:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="ＩＴサポート">
+      <Class Text="分類名CL00168">
+        <Detail Text="英二さんのパソコンの設定">
+          <WorkTime Date="20111028" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20111028" Time="02.50" Start="13:00" End="15:30" />
+          <WorkTime Date="20111031" Time="00.75" Start="09:00" End="09:45" />
+        </Detail>
+        <Detail Text="メールが受信できない件">
+          <WorkTime Date="20111207" Time="00.50" Start="15:00" End="15:30" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="株式会社ＮＣＳ">
+    <Business Text="Excel講習会補助">
+      <Class Text="サブ講師">
+        <Detail Text="サブ講師">
+          <WorkTime Date="20110121" Time="03.50" Start="09:00" End="12:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="宇都宮市IT講習">
+      <Class Text="宇都宮市IT講習">
+        <Detail Text="宇都宮市IT講習2011">
+          <WorkTime Date="20110203" Time="03.75" Start="08:15" End="12:00" />
+          <WorkTime Date="20110203" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110204" Time="03.75" Start="08:15" End="12:00" />
+          <WorkTime Date="20110204" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110210" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110214" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110214" Time="03.50" Start="13:30" End="17:00" />
+          <WorkTime Date="20110216" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110216" Time="03.50" Start="13:30" End="17:00" />
+          <WorkTime Date="20110218" Time="03.00" Start="09:00" End="12:00" />
+          <WorkTime Date="20110218" Time="03.50" Start="13:30" End="17:00" />
+        </Detail>
+        <Detail Text="宇都宮市IT講習2012">
+          <WorkTime Date="20120203" Time="05.50" Start="11:30" End="17:00" />
+          <WorkTime Date="20120206" Time="04.25" Start="12:45" End="17:00" />
+          <WorkTime Date="20120207" Time="04.25" Start="12:45" End="17:00" />
+          <WorkTime Date="20120209" Time="04.25" Start="12:45" End="17:00" />
+          <WorkTime Date="20120210" Time="04.25" Start="12:45" End="17:00" />
+          <WorkTime Date="20120213" Time="04.25" Start="12:45" End="17:00" />
+          <WorkTime Date="20120214" Time="04.25" Start="12:45" End="17:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="村上酒店システム開発">
+      <Class Text="酒税報告書">
+        <Class Text="酒税報告書の検証">
+          <Detail Text="酒税報告書検証">
+            <WorkTime Date="20110325" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110329" Time="03.25" Start="13:00" End="16:15" />
+            <WorkTime Date="20110330" Time="01.25" Start="09:30" End="10:45" />
+            <WorkTime Date="20110330" Time="00.75" Start="13:15" End="14:00" />
+            <WorkTime Date="20110331" Time="01.25" Start="10:45" End="12:00" />
+          </Detail>
+        </Class>
+        <Class Text="酒税報告書修正.20110325.001">
+          <Detail Text="コード修正">
+            <WorkTime Date="20110325" Time="00.25" Start="10:00" End="10:15" />
+            <WorkTime Date="20110325" Time="00.50" Start="11:00" End="11:30" />
+            <WorkTime Date="20110328" Time="02.50" Start="10:00" End="12:30" />
+            <WorkTime Date="20110331" Time="00.50" Start="13:00" End="13:30" />
+          </Detail>
+          <Detail Text="打合せ">
+            <WorkTime Date="20110325" Time="00.75" Start="10:15" End="11:00" />
+          </Detail>
+          <Detail Text="修正方法の検討">
+            <WorkTime Date="20110325" Time="01.00" Start="13:00" End="14:00" />
+          </Detail>
+        </Class>
+        <Class Text="酒税報告書修正.20110317.001">
+          <Detail Text="設計">
+            <WorkTime Date="20110317" Time="00.50" Start="14:15" End="14:45" />
+          </Detail>
+          <Detail Text="実装">
+            <WorkTime Date="20110317" Time="00.50" Start="14:45" End="15:15" />
+            <WorkTime Date="20110318" Time="02.25" Start="09:30" End="11:45" />
+          </Detail>
+          <Detail Text="打合せ">
+            <WorkTime Date="20110323" Time="00.75" Start="14:45" End="15:30" />
+          </Detail>
+          <Detail Text="ソースコードのマージ">
+            <WorkTime Date="20110323" Time="00.25" Start="15:30" End="15:45" />
+          </Detail>
+        </Class>
+        <Class Text="酒税報告書デバッグ">
+          <Detail Text="酒税報告書デバッグ解析">
+            <WorkTime Date="20110317" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110317" Time="00.50" Start="13:00" End="13:30" />
+          </Detail>
+          <Detail Text="バグ修正">
+            <WorkTime Date="20110317" Time="00.25" Start="13:30" End="13:45" />
+          </Detail>
+          <Detail Text="バグ修正テスト">
+            <WorkTime Date="20110317" Time="00.50" Start="13:45" End="14:15" />
+          </Detail>
+          <Detail Text="ケース売りの容量が出力されない件">
+            <WorkTime Date="20110406" Time="00.25" Start="14:15" End="14:30" />
+          </Detail>
+        </Class>
+        <Class Text="打合せ">
+          <Detail Text="打合せ">
+            <WorkTime Date="20110325" Time="00.25" Start="09:15" End="09:30" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="利益管理表">
+        <Class Text="利益管理表デバッグ">
+          <Detail Text="利益管理表デバッグ">
+            <WorkTime Date="20110325" Time="00.50" Start="09:30" End="10:00" />
+          </Detail>
+        </Class>
+        <Class Text="利益管理表修正.20110322.001">
+          <Detail Text="利益管理表修正">
+            <WorkTime Date="20110322" Time="01.25" Start="13:45" End="15:00" />
+            <WorkTime Date="20110323" Time="00.50" Start="09:15" End="09:45" />
+            <WorkTime Date="20110328" Time="00.50" Start="09:30" End="10:00" />
+            <WorkTime Date="20110405" Time="00.25" Start="11:30" End="11:45" />
+          </Detail>
+          <Detail Text="粗利の計算にケース・バラ原価の考慮をやめる件">
+            <WorkTime Date="20110406" Time="00.50" Start="13:45" End="14:15" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="出荷指示書">
+        <Class Text="出荷指示書修正">
+          <Detail Text="出荷指示書修正">
+            <WorkTime Date="20110404" Time="02.25" Start="14:30" End="16:45" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="その他">
+        <Detail Text="修正報告書作成">
+          <WorkTime Date="20110406" Time="00.25" Start="14:30" End="14:45" />
+        </Detail>
+        <Detail Text="様子見">
+          <WorkTime Date="20110407" Time="00.25" Start="16:15" End="16:30" />
+        </Detail>
+        <Detail Text="福田くん支援">
+          <WorkTime Date="20110421" Time="00.50" Start="14:00" End="14:30" />
+        </Detail>
+      </Class>
+      <Class Text="n次開発">
+        <Class Text="時限登録の見積もり">
+          <Detail Text="時限登録の修正の確認">
+            <WorkTime Date="20110803" Time="00.75" Start="16:00" End="16:45" />
+          </Detail>
+        </Class>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="とっと・ガンバ">
+    <Business Text="ネットワーク支援">
+      <Class Text="ネットワークトラブル">
+        <Detail Text="ネットワークトラブル支援">
+          <WorkTime Date="20110131" Time="00.75" Start="09:30" End="10:15" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="業務一般">
+      <Class Text="２０１１年度の打ち合わせ">
+        <Detail Text="２０１１年度の打ち合わせ">
+          <WorkTime Date="20110330" Time="02.00" Start="15:30" End="17:30" />
+        </Detail>
+      </Class>
+      <Class Text="その他">
+        <Detail Text="植木殿の問題ヒアリング">
+          <WorkTime Date="20110513" Time="01.50" Start="17:15" End="18:45" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="とっと授業支援">
+      <Class Text="とっと授業支援">
+        <Detail Text="とっと授業支援">
+          <WorkTime Date="20110506" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110723" Time="02.50" Start="13:00" End="15:30" />
+          <WorkTime Date="20110803" Time="02.00" Start="14:00" End="16:00" />
+          <WorkTime Date="20110914" Time="03.25" Start="13:15" End="16:30" />
+        </Detail>
+        <Detail Text="月替わり処理">
+          <WorkTime Date="20110527" Time="00.25" Start="15:00" End="15:15" />
+          <WorkTime Date="20110527" Time="01.25" Start="15:45" End="17:00" />
+          <WorkTime Date="20110601" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="とっと・ガンバWeb開発">
+      <Class Text="一次開発">
+        <Class Text="第一段階_実装">
+          <Detail Text="RoR3の学習">
+            <WorkTime Date="20110525" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110525" Time="00.50" Start="16:30" End="17:00" />
+            <WorkTime Date="20110526" Time="00.50" Start="14:15" End="14:45" />
+            <WorkTime Date="20110527" Time="00.50" Start="08:30" End="09:00" />
+            <WorkTime Date="20110527" Time="00.75" Start="09:15" End="10:00" />
+            <WorkTime Date="20110527" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110527" Time="01.25" Start="13:00" End="14:15" />
+            <WorkTime Date="20110527" Time="00.50" Start="15:15" End="15:45" />
+            <WorkTime Date="20110610" Time="01.75" Start="10:15" End="12:00" />
+            <WorkTime Date="20110613" Time="01.75" Start="13:00" End="14:45" />
+            <WorkTime Date="20110615" Time="03.00" Start="14:00" End="17:00" />
+            <WorkTime Date="20110614" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20110614" Time="04.00" Start="13:00" End="17:00" />
+            <WorkTime Date="20110616" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20110616" Time="03.00" Start="14:45" End="17:45" />
+            <WorkTime Date="20110617" Time="01.00" Start="09:30" End="10:30" />
+            <WorkTime Date="20110617" Time="04.00" Start="13:30" End="17:30" />
+            <WorkTime Date="20110620" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20110620" Time="04.75" Start="13:00" End="17:45" />
+            <WorkTime Date="20110621" Time="02.50" Start="13:00" End="15:30" />
+            <WorkTime Date="20110622" Time="02.00" Start="10:00" End="12:00" />
+            <WorkTime Date="20110622" Time="02.00" Start="13:00" End="15:00" />
+          </Detail>
+          <Detail Text="ヒアリング情報収集">
+            <WorkTime Date="20110602" Time="00.75" Start="15:00" End="15:45" />
+            <WorkTime Date="20110622" Time="00.50" Start="16:30" End="17:00" />
+          </Detail>
+          <Detail Text="画面設計">
+            <WorkTime Date="20110530" Time="02.00" Start="13:00" End="15:00" />
+            <WorkTime Date="20110531" Time="00.25" Start="09:00" End="09:15" />
+            <WorkTime Date="20110531" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110531" Time="05.00" Start="12:45" End="17:45" />
+            <WorkTime Date="20110606" Time="02.50" Start="13:00" End="15:30" />
+            <WorkTime Date="20110607" Time="03.25" Start="13:45" End="17:00" />
+            <WorkTime Date="20110608" Time="03.00" Start="13:00" End="16:00" />
+            <WorkTime Date="20110608" Time="01.00" Start="16:00" End="17:00" />
+          </Detail>
+          <Detail Text="RDB設計">
+            <WorkTime Date="20110526" Time="02.75" Start="14:45" End="17:30" />
+          </Detail>
+        </Class>
+        <Class Text="第二段階_検証">
+          <Detail Text="実装">
+            <WorkTime Date="20110623" Time="02.00" Start="10:00" End="12:00" />
+            <WorkTime Date="20110623" Time="01.00" Start="13:00" End="14:00" />
+            <WorkTime Date="20110623" Time="00.75" Start="16:15" End="17:00" />
+            <WorkTime Date="20110624" Time="01.00" Start="16:00" End="17:00" />
+            <WorkTime Date="20110629" Time="02.00" Start="10:00" End="12:00" />
+            <WorkTime Date="20110629" Time="01.25" Start="13:00" End="14:15" />
+          </Detail>
+          <Detail Text="開発環境セットアップ">
+            <WorkTime Date="20110624" Time="03.00" Start="13:00" End="16:00" />
+          </Detail>
+          <Detail Text="検証">
+            <WorkTime Date="20110706" Time="00.25" Start="11:45" End="12:00" />
+            <WorkTime Date="20110706" Time="04.00" Start="13:00" End="17:00" />
+            <WorkTime Date="20110707" Time="02.50" Start="13:30" End="16:00" />
+            <WorkTime Date="20110711" Time="00.25" Start="11:45" End="12:00" />
+            <WorkTime Date="20110711" Time="04.00" Start="13:00" End="17:00" />
+            <WorkTime Date="20110712" Time="00.25" Start="11:45" End="12:00" />
+            <WorkTime Date="20110712" Time="02.50" Start="13:00" End="15:30" />
+          </Detail>
+          <Detail Text="リファクタリング">
+            <WorkTime Date="20110706" Time="00.75" Start="10:15" End="11:00" />
+            <WorkTime Date="20110705" Time="02.25" Start="14:00" End="16:15" />
+          </Detail>
+        </Class>
+        <Class Text="第三段階_テスト">
+          <Detail Text="テスト手順の説明">
+            <WorkTime Date="20110713" Time="00.75" Start="10:00" End="10:45" />
+          </Detail>
+          <Detail Text="テスト">
+            <WorkTime Date="20110712" Time="00.50" Start="15:30" End="16:00" />
+            <WorkTime Date="20110713" Time="02.50" Start="14:30" End="17:00" />
+            <WorkTime Date="20110714" Time="01.50" Start="15:00" End="16:30" />
+          </Detail>
+        </Class>
+        <Class Text="第四段階_テスト稼動">
+          <Detail Text="テスト稼働状況確認">
+            <WorkTime Date="20110725" Time="01.00" Start="16:00" End="17:00" />
+          </Detail>
+          <Detail Text="データ入力">
+            <WorkTime Date="20110727" Time="01.50" Start="10:00" End="11:30" />
+          </Detail>
+          <Detail Text="締め処理説明">
+            <WorkTime Date="20110801" Time="00.25" Start="13:00" End="13:15" />
+            <WorkTime Date="20110801" Time="01.00" Start="16:00" End="17:00" />
+          </Detail>
+          <Detail Text="機能追加_欠席理由">
+            <WorkTime Date="20110803" Time="02.00" Start="10:00" End="12:00" />
+          </Detail>
+          <Detail Text="承認フロー作成">
+            <WorkTime Date="20110803" Time="01.00" Start="13:00" End="14:00" />
+          </Detail>
+          <Detail Text="機能追加_スタッフのみコメント">
+            <WorkTime Date="20110805" Time="00.50" Start="09:30" End="10:00" />
+          </Detail>
+          <Detail Text="テスト">
+            <WorkTime Date="20110805" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20110805" Time="01.00" Start="13:00" End="14:00" />
+          </Detail>
+          <Detail Text="システム入れ替え">
+            <WorkTime Date="20110805" Time="01.00" Start="17:00" End="18:00" />
+          </Detail>
+        </Class>
+        <Class Text="第五段階_運用">
+          <Detail Text="システムモデル図作成">
+            <WorkTime Date="20110808" Time="01.25" Start="09:00" End="10:15" />
+            <WorkTime Date="20110808" Time="00.75" Start="11:30" End="12:15" />
+            <WorkTime Date="20110808" Time="01.50" Start="13:00" End="14:30" />
+            <WorkTime Date="20110808" Time="01.50" Start="14:30" End="16:00" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="二次開発">
+        <Class Text="打ち合わせ">
+          <Detail Text="待機">
+            <WorkTime Date="20110915" Time="00.75" Start="13:30" End="14:15" />
+          </Detail>
+          <Detail Text="第一回打合せ、ヒアリングガンバ">
+            <WorkTime Date="20111004" Time="01.25" Start="15:15" End="16:30" />
+          </Detail>
+          <Detail Text="第二回打合せ">
+            <WorkTime Date="20111025" Time="00.75" Start="13:30" End="14:15" />
+          </Detail>
+          <Detail Text="第二回打合せのまとめ">
+            <WorkTime Date="20111025" Time="01.75" Start="14:15" End="16:00" />
+          </Detail>
+          <Detail Text="分室の打ち合わせ">
+            <WorkTime Date="20111031" Time="02.50" Start="14:30" End="17:00" />
+          </Detail>
+          <Detail Text="ＤＢ項目の打合せ">
+            <WorkTime Date="20111109" Time="02.00" Start="15:00" End="17:00" />
+          </Detail>
+          <Detail Text="進め方について打合せ">
+            <WorkTime Date="20111110" Time="01.25" Start="15:00" End="16:15" />
+            <WorkTime Date="20111114" Time="00.50" Start="10:15" End="10:45" />
+          </Detail>
+          <Detail Text="実装案フロー作成報告">
+            <WorkTime Date="20111117" Time="00.25" Start="13:45" End="14:00" />
+          </Detail>
+        </Class>
+        <Class Text="分析＆設計">
+          <Detail Text="項目の分析">
+            <WorkTime Date="20111011" Time="01.00" Start="13:30" End="14:30" />
+            <WorkTime Date="20111011" Time="00.75" Start="15:00" End="15:45" />
+            <WorkTime Date="20111012" Time="00.75" Start="11:00" End="11:45" />
+          </Detail>
+          <Detail Text="項目の整理">
+            <WorkTime Date="20111006" Time="01.75" Start="14:00" End="15:45" />
+          </Detail>
+          <Detail Text="要求分析">
+            <WorkTime Date="20110909" Time="02.50" Start="14:30" End="17:00" />
+          </Detail>
+          <Detail Text="システムフローの作成">
+            <WorkTime Date="20111021" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20111021" Time="02.00" Start="13:00" End="15:00" />
+          </Detail>
+          <Detail Text="システムフローの作成その二">
+            <WorkTime Date="20111026" Time="02.00" Start="09:00" End="11:00" />
+            <WorkTime Date="20111031" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20111031" Time="01.50" Start="13:00" End="14:30" />
+          </Detail>
+          <Detail Text="画面構成">
+            <WorkTime Date="20111101" Time="00.50" Start="15:45" End="16:15" />
+          </Detail>
+        </Class>
+        <Class Text="技術調査＆学習">
+          <Detail Text="Rails3レシピ学習">
+            <WorkTime Date="20110927" Time="00.50" Start="11:00" End="11:30" />
+          </Detail>
+          <Detail Text="Rubyレピシブックを取りに自宅へ">
+            <WorkTime Date="20110912" Time="00.75" Start="14:30" End="15:15" />
+          </Detail>
+          <Detail Text="JobClassifyerCloudの研究">
+            <WorkTime Date="20110914" Time="01.00" Start="11:00" End="12:00" />
+          </Detail>
+          <Detail Text="PDF生成の調査">
+            <WorkTime Date="20110912" Time="01.50" Start="10:30" End="12:00" />
+            <WorkTime Date="20110912" Time="01.50" Start="13:00" End="14:30" />
+            <WorkTime Date="20110913" Time="00.50" Start="11:30" End="12:00" />
+            <WorkTime Date="20110913" Time="00.25" Start="13:00" End="13:15" />
+            <WorkTime Date="20110913" Time="01.00" Start="14:00" End="15:00" />
+            <WorkTime Date="20110912" Time="01.75" Start="15:15" End="17:00" />
+          </Detail>
+          <Detail Text="開発環境セットアップ">
+            <WorkTime Date="20111005" Time="01.00" Start="16:00" End="17:00" />
+          </Detail>
+          <Class Text="REST">
+            <Detail Text="RESTの学習">
+              <WorkTime Date="20111012" Time="02.25" Start="14:45" End="17:00" />
+            </Detail>
+          </Class>
+          <Detail Text="jQuery調査">
+            <WorkTime Date="20111025" Time="00.50" Start="13:00" End="13:30" />
+          </Detail>
+          <Detail Text="AccessMDB作成">
+            <WorkTime Date="20111101" Time="00.25" Start="11:45" End="12:00" />
+          </Detail>
+          <Detail Text=".Net_Framework_バージョンチェック">
+            <WorkTime Date="20111101" Time="02.00" Start="13:00" End="15:00" />
+          </Detail>
+          <Detail Text="WindowsAzureの調査">
+            <WorkTime Date="20111102" Time="00.75" Start="14:15" End="15:00" />
+            <WorkTime Date="20111104" Time="03.00" Start="13:00" End="16:00" />
+          </Detail>
+          <Detail Text="WindowsAzureの調査外出">
+            <WorkTime Date="20111102" Time="01.00" Start="15:00" End="16:00" />
+          </Detail>
+          <Detail Text="個別支援計画資料を読む">
+            <WorkTime Date="20111108" Time="00.50" Start="14:45" End="15:15" />
+          </Detail>
+          <Detail Text="排他制御について調べる">
+            <WorkTime Date="20111110" Time="00.75" Start="16:15" End="17:00" />
+          </Detail>
+          <Detail Text="排他制御の調査">
+            <WorkTime Date="20111111" Time="03.00" Start="09:00" End="12:00" />
+            <WorkTime Date="20111114" Time="01.25" Start="09:00" End="10:15" />
+          </Detail>
+          <Detail Text="Rails3&amp;SQLServer調査">
+            <WorkTime Date="20111111" Time="00.75" Start="15:15" End="16:00" />
+            <WorkTime Date="20111111" Time="00.75" Start="16:30" End="17:15" />
+          </Detail>
+        </Class>
+        <Class Text="実装">
+          <Detail Text="実装検討">
+            <WorkTime Date="20111021" Time="00.50" Start="15:00" End="15:30" />
+          </Detail>
+          <Detail Text="メニューの実装">
+            <WorkTime Date="20111021" Time="01.00" Start="16:00" End="17:00" />
+            <WorkTime Date="20111024" Time="00.25" Start="16:15" End="16:30" />
+          </Detail>
+          <Detail Text="排他制御の実装">
+            <WorkTime Date="20111107" Time="03.00" Start="09:00" End="12:00" />
+            <WorkTime Date="20111107" Time="02.75" Start="13:00" End="15:45" />
+          </Detail>
+          <Detail Text="ＤＢ定義">
+            <WorkTime Date="20111107" Time="01.25" Start="15:45" End="17:00" />
+            <WorkTime Date="20111108" Time="00.50" Start="13:00" End="13:30" />
+            <WorkTime Date="20111108" Time="01.00" Start="15:15" End="16:15" />
+            <WorkTime Date="20111109" Time="00.50" Start="09:00" End="09:30" />
+            <WorkTime Date="20111110" Time="00.75" Start="11:15" End="12:00" />
+          </Detail>
+          <Detail Text="ＤＢ定義資料収集">
+            <WorkTime Date="20111108" Time="00.50" Start="13:30" End="14:00" />
+          </Detail>
+          <Detail Text="ＤＢ定義考える">
+            <WorkTime Date="20111108" Time="00.75" Start="14:00" End="14:45" />
+            <WorkTime Date="20111109" Time="01.25" Start="10:45" End="12:00" />
+            <WorkTime Date="20111109" Time="01.00" Start="14:00" End="15:00" />
+          </Detail>
+          <Detail Text="Access更新日時設定">
+            <WorkTime Date="20111109" Time="01.00" Start="09:30" End="10:30" />
+          </Detail>
+          <Detail Text="画面の実装">
+            <WorkTime Date="20111110" Time="00.75" Start="14:15" End="15:00" />
+          </Detail>
+        </Class>
+        <Class Text="バグ対応">
+          <Detail Text="バグ対応">
+            <WorkTime Date="20111021" Time="00.50" Start="15:30" End="16:00" />
+          </Detail>
+        </Class>
+        <Class Text="環境整備">
+          <Detail Text="VSSセットアップ">
+            <WorkTime Date="20111101" Time="00.75" Start="15:00" End="15:45" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="その他">
+        <Detail Text="定期メンテナンス">
+          <WorkTime Date="20120215" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="支援">
+      <Class Text="分類名CL00189">
+        <Detail Text="業務支援">
+          <WorkTime Date="20111227" Time="04.00" Start="13:00" End="17:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="NPO法人とちぎ教育ネットワーク様">
+    <Business Text="ホームページリニューアル">
+      <Class Text="初期費用">
+        <Detail Text="デザイン検討">
+          <WorkTime Date="20110209" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110210" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110215" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110215" Time="01.25" Start="13:45" End="15:00" />
+          <WorkTime Date="20110217" Time="00.75" Start="11:15" End="12:00" />
+          <WorkTime Date="20110217" Time="01.50" Start="13:00" End="14:30" />
+          <WorkTime Date="20110217" Time="00.25" Start="17:15" End="17:30" />
+          <WorkTime Date="20110228" Time="00.50" Start="15:45" End="16:15" />
+          <WorkTime Date="20110301" Time="01.50" Start="09:00" End="10:30" />
+          <WorkTime Date="20110301" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20110301" Time="01.75" Start="13:15" End="15:00" />
+          <WorkTime Date="20110301" Time="00.75" Start="15:00" End="15:45" />
+          <WorkTime Date="20110302" Time="00.75" Start="10:45" End="11:30" />
+          <WorkTime Date="20110302" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110302" Time="01.50" Start="14:00" End="15:30" />
+        </Detail>
+        <Detail Text="ドメイン設定">
+          <WorkTime Date="20110215" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+        <Detail Text="データお越し">
+          <WorkTime Date="20110303" Time="00.25" Start="11:45" End="12:00" />
+          <WorkTime Date="20110303" Time="02.75" Start="13:00" End="15:45" />
+        </Detail>
+        <Detail Text="技術調査">
+          <WorkTime Date="20110304" Time="01.75" Start="09:00" End="10:45" />
+        </Detail>
+        <Detail Text="ボタンデザインの修正">
+          <WorkTime Date="20110311" Time="01.00" Start="11:00" End="12:00" />
+        </Detail>
+        <Detail Text="サーバに新しいホームページをアップする">
+          <WorkTime Date="20110420" Time="00.75" Start="15:00" End="15:45" />
+        </Detail>
+      </Class>
+      <Class Text="月額契約">
+        <Detail Text="CrossRoadスキャニング">
+          <WorkTime Date="20110422" Time="00.75" Start="13:00" End="13:45" />
+          <WorkTime Date="20110425" Time="00.25" Start="14:45" End="15:00" />
+        </Detail>
+        <Detail Text="とちぎ教育の日リンク追加">
+          <WorkTime Date="20110426" Time="01.50" Start="10:30" End="12:00" />
+          <WorkTime Date="20110426" Time="01.50" Start="13:00" End="14:30" />
+        </Detail>
+        <Detail Text="SEOがうまくいっているか確認する">
+          <WorkTime Date="20110509" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+        <Detail Text="不登校の印象">
+          <WorkTime Date="20110520" Time="03.00" Start="17:30" End="20:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="更新提案">
+      <Class Text="分類名CL00133">
+        <Detail Text="現状分析">
+          <WorkTime Date="20110714" Time="00.75" Start="14:15" End="15:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="更新依頼">
+      <Class Text="分類名CL00135">
+        <Detail Text="中高生向け相談受付ページ">
+          <WorkTime Date="20110725" Time="02.00" Start="14:00" End="16:00" />
+        </Detail>
+        <Detail Text="中高生向けバナー">
+          <WorkTime Date="20110726" Time="02.00" Start="15:00" End="17:00" />
+          <WorkTime Date="20110727" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="さくら市議会議員福田克之様">
+    <Business Text="ホームページリニューアル">
+      <Class Text="打ち合わせ">
+        <Detail Text="打ち合わせ">
+          <WorkTime Date="20110512" Time="02.25" Start="16:00" End="18:15" />
+          <WorkTime Date="20110607" Time="02.75" Start="17:00" End="19:45" />
+          <WorkTime Date="20111229" Time="02.00" Start="15:30" End="17:30" />
+        </Detail>
+        <Detail Text="メール">
+          <WorkTime Date="20110520" Time="00.50" Start="09:00" End="09:30" />
+        </Detail>
+        <Detail Text="電話打合せ">
+          <WorkTime Date="20110524" Time="00.75" Start="17:30" End="18:15" />
+        </Detail>
+        <Detail Text="待ち">
+          <WorkTime Date="20110819" Time="02.25" Start="16:45" End="19:00" />
+        </Detail>
+      </Class>
+      <Class Text="制作">
+        <Detail Text="メイン画像制作">
+          <WorkTime Date="20110516" Time="01.00" Start="09:00" End="10:00" />
+          <WorkTime Date="20110516" Time="00.50" Start="15:30" End="16:00" />
+        </Detail>
+        <Detail Text="Type01.v1の制作">
+          <WorkTime Date="20110517" Time="03.00" Start="14:15" End="17:15" />
+        </Detail>
+        <Detail Text="Type02v1の制作">
+          <WorkTime Date="20110518" Time="00.25" Start="16:30" End="16:45" />
+        </Detail>
+        <Detail Text="Type05v1の制作">
+          <WorkTime Date="20110519" Time="01.25" Start="11:00" End="12:15" />
+        </Detail>
+        <Detail Text="Type06v1の制作">
+          <WorkTime Date="20110601" Time="01.00" Start="16:00" End="17:00" />
+          <WorkTime Date="20110602" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110602" Time="00.50" Start="13:15" End="13:45" />
+          <WorkTime Date="20110602" Time="01.00" Start="14:00" End="15:00" />
+          <WorkTime Date="20110602" Time="01.00" Start="16:15" End="17:15" />
+        </Detail>
+        <Detail Text="もやもやしてる時間">
+          <WorkTime Date="20110603" Time="02.00" Start="10:00" End="12:00" />
+          <WorkTime Date="20110603" Time="04.00" Start="13:00" End="17:00" />
+          <WorkTime Date="20110609" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20110609" Time="01.75" Start="13:15" End="15:00" />
+        </Detail>
+        <Detail Text="Type06v5の制作">
+          <WorkTime Date="20110608" Time="03.25" Start="09:00" End="12:15" />
+        </Detail>
+        <Detail Text="Type06v6の制作">
+          <WorkTime Date="20110615" Time="01.25" Start="10:45" End="12:00" />
+          <WorkTime Date="20110615" Time="00.50" Start="13:30" End="14:00" />
+        </Detail>
+        <Detail Text="工事中ページの制作">
+          <WorkTime Date="20110820" Time="02.00" Start="14:30" End="16:30" />
+        </Detail>
+        <Detail Text="福田議員問い合わせフォームの作成">
+          <WorkTime Date="20110829" Time="01.00" Start="15:00" End="16:00" />
+        </Detail>
+        <Detail Text="レイアウトの崩れ直し">
+          <WorkTime Date="20110909" Time="01.75" Start="09:45" End="11:30" />
+        </Detail>
+      </Class>
+      <Class Text="管理">
+        <Detail Text="顧客管理作成">
+          <WorkTime Date="20110820" Time="01.00" Start="13:00" End="14:00" />
+        </Detail>
+        <Detail Text="リリース">
+          <WorkTime Date="20110901" Time="01.75" Start="13:15" End="15:00" />
+        </Detail>
+        <Detail Text="SLA定義">
+          <WorkTime Date="20110901" Time="02.00" Start="15:00" End="17:00" />
+        </Detail>
+        <Detail Text="メルマガリンク更新">
+          <WorkTime Date="20120118" Time="00.50" Start="16:00" End="16:30" />
+          <WorkTime Date="20120118" Time="00.75" Start="16:30" End="17:15" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="自分">
+    <Business Text="プロフィールサイトリニューアル">
+      <Class Text="分類">
+        <Detail Text="Type01.v2">
+          <WorkTime Date="20110515" Time="02.00" Start="06:30" End="08:30" />
+        </Detail>
+        <Detail Text="eclipseダウンロード">
+          <WorkTime Date="20110515" Time="00.25" Start="09:30" End="09:45" />
+        </Detail>
+        <Detail Text="コンテンツ制作">
+          <WorkTime Date="20110524" Time="01.00" Start="06:00" End="07:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="その他">
+      <Class Text="分類">
+        <Detail Text="レミールのパース線プログラム">
+          <WorkTime Date="20110515" Time="01.50" Start="21:30" End="23:00" />
+          <WorkTime Date="20110518" Time="01.00" Start="06:45" End="07:45" />
+        </Detail>
+        <Detail Text="定年説過去のブログ更新">
+          <WorkTime Date="20110523" Time="01.00" Start="14:30" End="15:30" />
+        </Detail>
+        <Detail Text="ワカモノ・フェスタブログ更新">
+          <WorkTime Date="20110908" Time="00.50" Start="13:15" End="13:45" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="のぞみホーム様">
+    <Business Text="パソコン教室">
+      <Class Text="準備">
+        <Detail Text="パソコン教室チラシ作り">
+          <WorkTime Date="20110520" Time="01.00" Start="16:30" End="17:30" />
+          <WorkTime Date="20110523" Time="01.50" Start="15:30" End="17:00" />
+          <WorkTime Date="20110525" Time="00.75" Start="15:45" End="16:30" />
+        </Detail>
+        <Detail Text="打ち合わせ">
+          <WorkTime Date="20111118" Time="01.00" Start="16:00" End="17:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="湯澤正明様">
+    <Business Text="パソコン活用">
+      <Class Text="分類名CL00131">
+        <Detail Text="読上げブラウザ">
+          <WorkTime Date="20110708" Time="01.25" Start="18:00" End="19:15" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="横松議員データベース">
+    <Business Text="横松議員見積もり">
+      <Class Text="分類名CL00200">
+        <Detail Text="見積もり">
+          <WorkTime Date="20120126" Time="00.50" Start="11:30" End="12:00" />
+          <WorkTime Date="20120126" Time="02.25" Start="13:30" End="15:45" />
+          <WorkTime Date="20120126" Time="02.00" Start="17:00" End="19:00" />
+          <WorkTime Date="20120126" Time="01.50" Start="21:00" End="22:30" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>

@@ -1,0 +1,19 @@
+@charset "shift_jis";
+.maincomment {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+.icons {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	text-align: center;
+}
+.setupcomment {
+	margin-left: 25px;
+	margin-top: -5px;
+}

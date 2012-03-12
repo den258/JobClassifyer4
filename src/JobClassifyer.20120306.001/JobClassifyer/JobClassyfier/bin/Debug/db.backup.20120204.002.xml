@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root Text="office.frog256">
+  <Customer Text="顧客名CS00001">
+    <Business Text="業務名BS00001">
+      <Class Text="分類名CL00001">
+        <Detail Text="詳細名DT00001">
+          <WorkTime Date="20120201" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+      </Class>
+      <Class Text="分類名CL00002">
+        <Detail Text="詳細名DT00002">
+          <WorkTime Date="20120131" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="顧客名CS00002">
+    <Business Text="業務名BS00002">
+      <Class Text="分類名CL00003">
+        <Detail Text="詳細名DT00003">
+          <WorkTime Date="20120204" Time="01.00" Start="09:00" End="10:00" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>

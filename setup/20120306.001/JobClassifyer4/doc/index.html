@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>JobClassyfier</title>
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="icons">
+  <p><img src="img/netpositive.png" width="32" height="32"></p>
+</div>
+<div class="maincomment">
+	<p>知識労働者が成果をあげるための第一歩は、 実際の時間の使い方を記録することである。</p>
+    <p>by ピーター・ドラッカー</p>
+	<p>JobClassyfier をダウンロードしていただき、ありがとうございます。このソフトウェアの作者の den256 と申します。JobClassyfier は、私が以前勤めていた職場で、作業時間の集計を行ってる同僚を支援することを目的に作成したソフトウェアです。このパッケージに同封されている exe ファイルは、Standalone 版になります。もし質問などありましたら、私のホームページ <a href="http://frog256.org/">http://frog256.org/</a> のサポートフォームでご連絡ください。</p>
+  <p><a name="index"></a></p>
+    <p>目次</p>
+    <ul>
+    	<li><a href="#concept">概要</a></li>
+    	<li><a href="#toversion2">バージョン1から2の変更点</a></li>
+    	<li><a href="#toversion3">バージョン2から3の変更点</a></li>
+    	<li><a href="#toversion4">バージョン3から4の変更点</a></li>
+    	<li><a href="#aboutsetup">セットアップ</a></li>
+    	<li><a href="#features">JobClassyfier の主な機能</a>
+    	  <ul>
+            <li><a href="#features01">作業時間の登録</a></li>
+            <li><a href="#features02">作業時間の削除</a></li>
+            <li><a href="#features03">XML ファイルへの保存</a></li>
+            <li><a href="#features04">XMLファイルからの読み込み</a></li>
+            <li><a href="#features05">任意の節の配下の作業時間の集計</a></li>
+            <li><a href="#features06">任意の日付の作業時間の集計</a></li>
+            </ul>
+        </li>
+    	<li><a href="#facebook">Facebookファンページ</a></li>
+    	<li><a href="#youtube">使い方youtube</a></li>
+    	<li><a href="#filestructure">ファイル構成</a>
+    	  <ul>
+            <li><a href="#filestructure01">db.xml</a></li>
+            <li><a href="#filestructure02">treestatus.xml</a></li>
+            </ul>
+        </li>
+        <li><a href="#otherattention">その他の注意事項</a></li>
+    </ul>
+    </p>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="concept"></p>
+    <p>概要</p>
+    <div class="setupcomment">
+    <p>
+    <p>作者への連絡先：<a href="mailto:jsato2008@gmail.com">jsato2008@gmail.com</a></p>
+<p>ソフトの概要：このソフトウェアは、作業時間を記録し、好きな分類で集計することができるツールです。時間単価で顧客へ費用を請求するような仕事をされている方、又は、ソフトウェアの開発者の方には、便利なツールになるのではないかと思います。</p>
+<p>取り扱い種別：フリーウェア</p>
+<p>動作環境：Micorsoft .Net Framework 3.5 SP1</p>
+    </p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="toversion2"></p>
+    <p>バージョン1からバージョン2への変更点</p>
+    <div class="setupcomment">
+    <p>
+    <ul>
+    	<li>下の部分に一日の作業時間を入力するようにしました。</li>
+    </ul>
+    </p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="toversion3"></p>
+    <p>バージョン2からバージョン3への変更点</p>
+    <div class="setupcomment">
+    <p>
+    <ul>
+    	<li>XMLファイルへの保存機能に日付の範囲指定ができるようになりました。</li>
+    	<li>XMLファイルへの読み込み機能に追加と上書きが選べるようになりました。</li>
+    	<li>作業時間の開始時間と終了時間を変更すると作業時間が削除されるようになりました。</li>
+    	<li>木構造と作業時間を関連付けるボタンのラベル名が「リンク／解除」になりました。機能は、変わりません。</li>
+    	<li>下の表のジョブの部分をダブルクリックすると関連する作業時間が表示されるようになりました。</li>
+    	<li>ノードラベルの編集不可部分を編集するとエラーメッセージが表示されるようになりました。</li>
+    </ul>
+    </p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="toversion4"></p>
+    <p>バージョン3からバージョン4への変更点</p>
+    <div class="setupcomment">
+    <p>
+    <ul>
+    	<li>XMLファイル保存が正しくできない、Version 3 のバグを修正しました。</li>
+    	<li>日付の範囲指定に「範囲指定しない」を追加しました。</li>
+    	<li>業務毎に集計し、CSV で保存する機能を追加しました。</li>
+    	<li>指定した Node 配下の日付の範囲を表示する機能を追加しました。</li>
+    </ul>
+    </p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="aboutsetup"></a></p>
+    <p>セットアップ</p>
+<div class="setupcomment">
+      <p>JobClassyfier は、セットアッププログラムがありません。好きなフォルダにJobClassyfier を移動し、実行してください。JobClassyfier は、自分のいるフォルダに作業ファイルを作成します。作成される作業ファイルについては、<a href="#filestructure">こちら</a>を参照してください。</p>
+    </div>
+    <p><a name="features"></a></p>
+    <p>JobClassyfier の主な機能</p>
+<div class="setupcomment">
+    <p><a name="features01"></a></p>
+    <p>作業時間の登録</p>
+<div class="setupcomment">
+      <p>作業時間を登録します。作業時間は、顧客、業務、分類、詳細という階層構造に保存します。階層構造に保存することで、後から、なにに何時間、作業時間がかかったか集計することができます。特定の顧客、業務、任意の分類名、任意の作業詳細について、作業時間が何時間かかったか後から分析することができます。</p>
+    </div>
+    <div class="setupcomment">
+      <p>操作方法</p>
+      <div class="setupcomment">
+        <p>木構造の任意の節を右クリックし、表示されたポップアップメニューから追加したい節（顧客、業務、分類、詳細、作業時間）を選択する。
+          注意事項として、作業時間は、詳細の下にしか登録することができません。顧客や業務、分類の直下には、作業時間は追加できませんのでご注意ください。</p>
+        </div>
+    </div>
+  <p><a name="features02"></a></p>
+  <p>作業時間の削除</p>
+  <div class="setupcomment">
+    <p>もちろん登録した作業時間は、好きなときに削除することができます。ただし、一度削除したデータは、復元することができません。心配なときは、XMLファイルへ保存してください。保存したXMLファイルは、データベースのバックアップとして、利用することができます。XML からは、データを復元することができます。</p>
+  </div>
+  <div class="setupcomment">
+    <p>操作方法</p>
+    <div class="setupcomment">
+      <p>削除したい節を右クリックし、表示されたポップアップメニューから削除を選択してください。ある節を削除すると、その配下のデータは、すべて削除されます。</p>
+      </div>
+  </div>
+  <p><a name="features03"></a></p>
+  <p>XML ファイルへの保存</p>
+<div class="setupcomment">
+      <p>現在、登録してあるすべてのデータを XML ファイルとして保存することができます。保存した XML ファイルは、データベースのバックアップとして利用することができます。定期的に XML ファイルに保存し、データをバックアップしましょう。</p>
+    </div>
+    <div class="setupcomment">
+      <p>操作方法</p>  
+      <div class="setupcomment">
+        <p>ウィンドウ上部のメニューから「ファイル」→「保存する」を選択してください。保存先を指定するダイアログボックスが表示されますので保存先を指定して保存をクリックしてください。</p>
+        </div>
+    </div>
+    <p><a name="features04"></a></p>
+    <p>XMLファイルからの読み込み</p>
+<div class="setupcomment">
+      <p>「XML ファイルへ保存」によって保存された XML ファイルを現在の木構造に読み込みます。読み込むときは、XML ファイルに保存されているデータをすべて読み込みます。選択的に読み込むことはできません。選択的に読み込みたい場合は、XML ファイルをテキストエディタなどで編集し、読み込みたいデータ以外のデータを自分で削除してから読み込んでください。</p>
+    </div>
+    <div class="setupcomment">
+      <p>操作方法</p>
+      <div class="setupcomment">
+        <p>ウィンドウ上部のメニューから「ファイル」→「追加読み込み」を選択してください。誤って、このプログラムが保存した XML ファイルとは、異なる XML ファイルを指定した場合は、プログラムが異常終了することを確認しています。誤って、正しくない XML ファイルを読み込まないように注意してください。<br>
+          </p>
+        </div>
+    </div>
+    <p><a name="features05"></a></p>
+    <p>任意の節の配下の作業時間の集計</p>
+<div class="setupcomment">
+      <p>任意の節の配下の作業時間の合計を集計します。顧客、業務、分類、詳細など任意の節の配下に登録されている作業時間の合計を表示することができます。</p>
+    </div>
+    <div class="setupcomment">
+      <p>操作方法</p>
+      <div class="setupcomment">
+        <p>集計したい節をマウスの左ボタンでクリックします。ウィンドウ上部のメニューから「集計」→「Node配下の時間を合計する」を選択します。</p>
+        </div>
+    </div>
+    <p><a name="features06"></a></p>
+    <p>任意の日付の作業時間の集計</p>
+<div class="setupcomment">
+      <p>任意の日付の作業時間の合計を集計します。たとえば、そのときに登録している日付の作業時間の合計を集計し、一日の実働時間にあっているかどうか確認することができます。</p>
+    </div>
+    <div class="setupcomment">
+      <p>操作方法</p>
+      <div class="setupcomment">
+        <p>ウィンドウ上部のメニューから「集計」→「指定日の時間を合計する」を選択します。次に集計したい日付を選択します。</p>
+        </div>
+    </div>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="facebook"></p>
+    <p>Facebook ファンページ</p>
+    <div class="setupcomment">
+    <p>更新情報などは、こちらでお知らせしてゆきます。ぜひ、いいねを押してください。</p>
+    <p><a href="http://www.facebook.com/JobClassifyer">http://www.facebook.com/JobClassifyer</a></p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="youtube"></p>
+    <p>使い方説明のyoutube動画</p>
+    <div class="setupcomment">
+    <p>
+    <ul>
+    	<li><a href="http://youtu.be/2zCkfz9COFU">記録のしかた編 Record</a></li>
+    	<li><a href="http://youtu.be/xOwXHOY_e54">集計のしかた編 Count</a></li>
+    </ul>
+    </p>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="filestructure"></a></p>
+    <p>ファイル構成</p>
+<div class="setupcomment">
+    <p><a name="filestructure01" id="filestructure01"></a></p>
+    <p>db.xml</p>
+<div class="setupcomment">
+      <p>木構造のすべてのデータを保存しているファイルです。アプリケーション起動時に読み込まれ、終了時に保存されます。このファイルを削除すると現在の木構造に保存されているすべてのデータも消えてしまいますので不用意に消さないように注意してください。内部は、テキスト形式の XML ファイルなのでテキストエディタで編集することができます。データの内容は、XML ファイル保存機能で保存される物と同じです。アプリケーション起動中にこのファイルを削除した場合、アプリケーション終了時に新しくファイルが作成されます。</p>
+    </div>
+    <p><a name="filestructure02"></a></p>
+    <p>treestatus.xml</p>
+<div class="setupcomment">
+      <p>アプリケーションの木構造の展開状態を保存しているファイルです。削除すると次回アプリケーションを終了したときに新しく作成します。</p>
+    </div>
+    </div>
+
+	<!-- ---------------------------------------------------------------------- -->
+    <p><a name="otherattention"></a></p>
+    <p>その他の注意事項</p>
+<div class="setupcomment">
+      <p>節の文字列を編集するときは、“[”、“]”、“:”などの記号は、削除しないように注意してください。不用意に削除してしまうとプログラムは、誤作動してしまいます。</p>
+      <p>登録した作業時間を修正したいときは、いったん登録したデータを削除してから、もう一度、修正後のデータを新しく登録してください。</p>
+    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+</div>
+
+</body>
+</html>

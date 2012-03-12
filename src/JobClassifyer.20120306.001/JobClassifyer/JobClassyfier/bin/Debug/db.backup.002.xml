@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root Text="office.frog256">
+  <Customer Text="cic">
+    <Business Text="雑務">
+      <Class Text="分類名CL000001">
+        <Detail Text="雑務">
+          <WorkTime Date="20110105" Time="02.00" Detail="09:00-11:00@20110105" />
+          <WorkTime Date="20110104" Time="01.00" Detail="09:00-10:00@20110104" />
+        </Detail>
+        <Class Text="阿久津市議hp">
+          <Detail Text="画像レイアウト">
+            <WorkTime Date="20110105" Time="04.00" Detail="13:00-17:00@20110105" />
+            <WorkTime Date="20110106" Time="04.00" Detail="13:00-17:00@20110106" />
+          </Detail>
+        </Class>
+      </Class>
+    </Business>
+    <Business Text="買い物">
+      <Class Text="買い物">
+        <Detail Text="電気屋さん">
+          <WorkTime Date="20110106" Time="03.00" Detail="09:00-12:00@20110106" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>

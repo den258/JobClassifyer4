@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root Text="office.frog256">
+  <Customer Text="顧客名CS00001">
+    <Business Text="学習">
+      <Class Text="JouetBleu">
+        <Detail Text="Jouetセットアップ">
+          <WorkTime Date="20111009" Time="02.00" Start="09:00" End="11:00" />
+        </Detail>
+      </Class>
+      <Class Text="RubyOpenGL">
+        <Detail Text="rOglセットアップ">
+          <WorkTime Date="20111009" Time="01.00" Start="17:30" End="18:30" />
+          <WorkTime Date="20111223" Time="01.50" Start="11:30" End="13:00" />
+        </Detail>
+        <Detail Text="Blog">
+          <WorkTime Date="20111223" Time="00.25" Start="13:00" End="13:15" />
+        </Detail>
+        <Detail Text="実装">
+          <WorkTime Date="20111224" Time="01.50" Start="17:00" End="18:30" />
+        </Detail>
+        <Class Text="落下運動シュミレーション">
+          <Detail Text="落下運動シュミレーション">
+            <WorkTime Date="20120127" Time="03.00" Start="14:00" End="17:00" />
+            <WorkTime Date="20120129" Time="01.00" Start="11:00" End="12:00" />
+            <WorkTime Date="20120129" Time="00.50" Start="17:00" End="17:30" />
+          </Detail>
+        </Class>
+      </Class>
+      <Class Text="toRuby_59th">
+        <Detail Text="ポジぺ作成">
+          <WorkTime Date="20111101" Time="00.50" Start="16:15" End="16:45" />
+          <WorkTime Date="20111102" Time="00.25" Start="07:30" End="07:45" />
+        </Detail>
+        <Detail Text="移動">
+          <WorkTime Date="20111102" Time="01.75" Start="17:00" End="18:45" />
+          <WorkTime Date="20111102" Time="01.50" Start="21:00" End="22:30" />
+        </Detail>
+        <Detail Text="toRuby">
+          <WorkTime Date="20111102" Time="02.25" Start="18:45" End="21:00" />
+        </Detail>
+      </Class>
+      <Class Text="栃木Ruby会議04">
+        <Detail Text="ポジペなどの準備">
+          <WorkTime Date="20111201" Time="02.00" Start="20:45" End="22:45" />
+        </Detail>
+        <Detail Text="移動">
+          <WorkTime Date="20111203" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20111203" Time="01.00" Start="21:00" End="22:00" />
+        </Detail>
+        <Detail Text="会議">
+          <WorkTime Date="20111203" Time="06.00" Start="12:00" End="18:00" />
+        </Detail>
+        <Detail Text="懇親会">
+          <WorkTime Date="20111203" Time="03.00" Start="18:00" End="21:00" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="ボランティア">
+      <Class Text="なんにわ">
+        <Detail Text="なんにわ">
+          <WorkTime Date="20111125" Time="03.00" Start="19:00" End="22:00" />
+          <WorkTime Date="20111202" Time="03.00" Start="19:00" End="22:00" />
+        </Detail>
+        <Detail Text="移動">
+          <WorkTime Date="20111202" Time="01.00" Start="18:00" End="19:00" />
+          <WorkTime Date="20111202" Time="01.00" Start="22:00" End="23:00" />
+        </Detail>
+      </Class>
+      <Class Text="ワカモノ・フェスタ">
+        <Class Text="ホームページ">
+          <Detail Text="obiの設定">
+            <WorkTime Date="20111102" Time="01.00" Start="05:30" End="06:30" />
+            <WorkTime Date="20111102" Time="00.50" Start="07:00" End="07:30" />
+          </Detail>
+          <Detail Text="ホームページデザイン">
+            <WorkTime Date="20111031" Time="01.00" Start="21:00" End="22:00" />
+            <WorkTime Date="20111102" Time="01.00" Start="22:45" End="23:45" />
+            <WorkTime Date="20111103" Time="01.25" Start="09:00" End="10:15" />
+            <WorkTime Date="20111103" Time="01.00" Start="17:00" End="18:00" />
+            <WorkTime Date="20111111" Time="02.00" Start="18:45" End="20:45" />
+          </Detail>
+          <Detail Text="スキャニング&amp;PDF作成">
+            <WorkTime Date="20111016" Time="02.50" Start="15:00" End="17:30" />
+          </Detail>
+        </Class>
+        <Class Text="イベント当日">
+          <Detail Text="当日ボランティア">
+            <WorkTime Date="20111204" Time="10.00" Start="10:00" End="20:00" />
+          </Detail>
+        </Class>
+      </Class>
+    </Business>
+    <Business Text="営利活動">
+      <Class Text="JobClassifyer3">
+        <Detail Text="Exportの実装">
+          <WorkTime Date="20111010" Time="01.75" Start="05:30" End="07:15" />
+        </Detail>
+        <Detail Text="ラベルチェックの実装">
+          <WorkTime Date="20111011" Time="00.50" Start="06:30" End="07:00" />
+        </Detail>
+        <Detail Text="上書きの実装">
+          <WorkTime Date="20111013" Time="01.00" Start="06:30" End="07:30" />
+        </Detail>
+        <Detail Text="ダブルクリックで詳細選択">
+          <WorkTime Date="20111014" Time="00.50" Start="17:00" End="17:30" />
+          <WorkTime Date="20111015" Time="00.75" Start="12:00" End="12:45" />
+        </Detail>
+        <Detail Text="時間を変えたら関連クリア">
+          <WorkTime Date="20111102" Time="00.75" Start="16:15" End="17:00" />
+        </Detail>
+        <Detail Text="細かな修正">
+          <WorkTime Date="20111108" Time="00.50" Start="16:15" End="16:45" />
+        </Detail>
+        <Detail Text="デバッグ">
+          <WorkTime Date="20111124" Time="00.50" Start="15:00" End="15:30" />
+        </Detail>
+        <Detail Text="マニュアル作成">
+          <WorkTime Date="20111216" Time="01.00" Start="06:30" End="07:30" />
+        </Detail>
+        <Detail Text="バグつぶし">
+          <WorkTime Date="20120131" Time="01.75" Start="20:30" End="22:15" />
+        </Detail>
+      </Class>
+      <Class Text="就職活動">
+        <Detail Text="LockedInの登録">
+          <WorkTime Date="20111219" Time="02.00" Start="20:00" End="22:00" />
+        </Detail>
+      </Class>
+      <Class Text="Office2007セットアップ">
+        <Detail Text="Office2007セットアップ">
+          <WorkTime Date="20111011" Time="00.75" Start="05:00" End="05:45" />
+        </Detail>
+      </Class>
+      <Class Text="家計簿">
+        <Detail Text="家計簿分析">
+          <WorkTime Date="20111011" Time="00.50" Start="05:45" End="06:15" />
+        </Detail>
+        <Detail Text="家計簿入力">
+          <WorkTime Date="20111030" Time="01.00" Start="11:00" End="12:00" />
+          <WorkTime Date="20111124" Time="01.00" Start="21:00" End="22:00" />
+          <WorkTime Date="20111223" Time="00.50" Start="08:00" End="08:30" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="CCの仕事">
+      <Class Text="週報">
+        <Detail Text="週報作成">
+          <WorkTime Date="20111216" Time="00.50" Start="06:00" End="06:30" />
+        </Detail>
+      </Class>
+      <Class Text="Skype">
+        <Detail Text="高田くんとSkype">
+          <WorkTime Date="20111201" Time="01.00" Start="22:45" End="23:45" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>
